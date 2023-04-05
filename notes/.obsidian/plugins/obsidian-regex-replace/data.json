@@ -1,6 +1,6 @@
 {
-  "findText": "Internet is",
-  "replaceText": "",
+  "findText": "\\(.*/(.*.png)",
+  "replaceText": "($1",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": true,

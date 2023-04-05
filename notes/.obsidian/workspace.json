@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15438af8bb882519",
+        "id": "8a99b8eea07d69c6",
         "type": "tabs",
         "children": [
           {
-            "id": "36ab43b9fe0966c0",
+            "id": "4bfc4684595e60b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WT/WT INSEM.md",
+                "file": "AI/AI Insem.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WT/WT INSEM.md",
+                "file": "AI/AI Insem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WT/WT INSEM.md",
+                "file": "AI/AI Insem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WT/WT INSEM.md"
+                "file": "AI/AI Insem.md"
               }
             }
           },
@@ -139,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,13 +157,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36ab43b9fe0966c0",
+  "active": "4bfc4684595e60b2",
   "lastOpenFiles": [
-    "WT/Unit 1 - Web Essentials and Mark-up language.epub",
-    "DSBDA/Untitled.canvas",
+    "AI/images/hill-climbing-algorithm-in-ai4.png",
+    "AI/images/hill-climbing-algorithm-in-ai4.png.crdownload",
+    "AI/images/hill-climbing-algorithm-in-ai3.png",
+    "AI/images/hill-climbing-algorithm-in-ai3.png.crdownload",
+    "AI/images/hill-climbing-algorithm-in-ai2.png",
+    "AI/images/hill-climbing-algorithm-in-ai2.png.crdownload",
+    "AI/images/hill-climbing-algorithm-in-ai.png",
+    "AI/images/hill-climbing-algorithm-in-ai.png.crdownload",
+    "AI/images/informed-search-algorithms5.png",
+    "AI/images/informed-search-algorithms5.png.crdownload",
+    "AI/images/informed-search-algorithms4.png",
+    "AI/images/informed-search-algorithms4.png.crdownload",
+    "AI/images/informed-search-algorithms3.png",
+    "AI/images/informed-search-algorithms3.png.crdownload",
+    "AI/images/informed-search-algorithms2.png",
+    "AI/images/informed-search-algorithms2.png.crdownload",
+    "AI/images/informed-search-algorithms.png",
+    "AI/images/informed-search-algorithms.png.crdownload",
+    "AI/images/bidirectional-search-algorithm.png",
+    "AI/images/bidirectional-search-algorithm.png.crdownload",
+    "AI/images/iterative-deepeningdepth-first-search.png",
+    "Untitled.canvas",
+    "AI/AI Insem.md",
+    "sdfsdf.md",
     "WT/WT INSEM.md",
-    "WT",
-    "DSBDA",
+    "DSBDA/Untitled.canvas",
     "DSBDA/subtopics/2.8 sample hypothesis testing.md",
     "DSBDA/subtopics/2.6.2 Statements of hypothesis testing.md",
     "DSBDA/UNIT 2 - Statistical Inference.md",
@@ -170,7 +192,6 @@
     "DSBDA/DSBDA.md",
     "DSBDA/subtopics/2.6.3 Types of hypothesis testing.md",
     "DSBDA/subtopics/2.6.4 Types of errors.md",
-    "DSBDA/subtopics",
     "Untitled 1.md"
   ]
 }
