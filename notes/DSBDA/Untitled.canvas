@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"bf62823fe741300f","x":-300,"y":120,"width":400,"height":400,"type":"file","file":"DSBDA/subtopics/2.6.3 Types of hypothesis testing.md"},
+		{"id":"1d6dbe4b004c4e50","x":100,"y":120,"width":400,"height":400,"type":"file","file":"DSBDA/subtopics/2.6.3 Types of hypothesis testing.md"},
+		{"id":"54d5780e0a3d391d","x":500,"y":120,"width":400,"height":400,"type":"file","file":"DSBDA/subtopics/2.6.4 Types of errors.md"},
+		{"id":"9fe7c3abb62a457a","x":-700,"y":120,"width":400,"height":400,"type":"file","file":"DSBDA/DSBDA.md"},
+		{"id":"d77e43cac5c482d2","x":-1100,"y":120,"width":400,"height":400,"type":"file","file":"DSBDA/UNIT 2 - Statistical Inference.md"}
+	],
+	"edges":[]
+}

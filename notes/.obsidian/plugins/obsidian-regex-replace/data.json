@@ -1,0 +1,10 @@
+{
+  "findText": "Internet is",
+  "replaceText": "",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": true,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}
