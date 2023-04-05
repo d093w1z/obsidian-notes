@@ -63,6 +63,11 @@ eg. game agents
 
 ### DL:
 multi level neurons used to discern complicated patterns
+eg. medical applications 
+
+### NLP:
+process by which computers learn to
+interpret, comprehend, and alter textual material.
 eg. ChatGPT
 
 ## 1.4 Risks and Benefits of AI
