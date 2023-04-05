@@ -107,7 +107,7 @@ components of agent
 + actuators: energy to motion
 + effectors: affect env
 
-![[components.png]]
+![[images/components.png]]
 
 ### Intelligent Agents:
 autonomous entity which act upon an environment using sensors and actuators for achieving goals. An intelligent agent may learn from the environment to achieve their goals. 
@@ -158,7 +158,7 @@ not everything known about env
 perform actions using the current percept, rather than the percept history.
 condition-action rule is used as the basis for the agent function.
 fully observable environment is ideal for the success of the agent function.
-![[sra.png]]
+![[images/sra.png]]
 
 
 ### Model-based reflex agents
@@ -166,21 +166,21 @@ consider the percept history in their actions.
 can still work well even in an environment that is not fully observable
 use an internal model that determines the percept history and effect of actions
 reflect on certain aspects of the present state that have been unobserved.
-![[mba.png]]
+![[images/mba.png]]
 
 ### Goal-based agents
 have higher capabilities
 use goal information to describe desirable capabilities.
 choose among various possibilities.
 select the best action that enhances the attainment of the goal.
-![[gba.png]]
+![[images/gba.png]]
 
 ### Utility-based agents
 make choices based on utility.
 more advanced because of an extra component of utility measurement.
 a state is mapped against a certain measure of utility.
 A rational agent selects the action that optimizes the expected utility of the outcome.
-![[uba.png]]
+![[images/uba.png]]
 
 ### Learning agents
 These are agents that have the capability of learning from their previous experience.
@@ -189,7 +189,7 @@ Learning agents have the following elements.
 + The critic: It provides feedback on how the agent is doing.
 + The performance element: This element decides on the external action that needs to be taken.
 + The problem generator: This acts as a feedback agent that performs certain tasks such as making suggestions (new) and keeping history
-![[la.png]]
+![[images/la.png]]
 
 # Unit 2
 ## 2.1 Solving Problems by Searching, Problem-Solving Agents
@@ -253,7 +253,7 @@ In the below tree structure, we have shown the traversing of the tree using BFS 
 S---> A--->B---->C--->D---->G--->H--->E---->F---->I---->K  
 ```
 
-![Uninformed Search Algorithms](breadth-first-search.png)
+![Uninformed Search Algorithms](images/breadth-first-search.png)
 
 **Time Complexity:** Time Complexity of BFS algorithm can be obtained by the number of nodes traversed in BFS until the shallowest Node. Where the d= depth of shallowest solution and b is a node at every state.
 
@@ -292,7 +292,7 @@ Root node--->Left node ----> right node.
 
 It will start searching from root node S, and traverse A, then B, then D and E, after traversing E, it will backtrack the tree as E has no other successor and still goal node is not found. After backtracking it will traverse node C and then G, and here it will terminate as it found goal node.
 
-![Uninformed Search Algorithms](depth-first-search.png)
+![Uninformed Search Algorithms](images/depth-first-search.png)
 
 **Completeness:** DFS search algorithm is complete within finite state space as it will expand every node within a limited search tree.
 
@@ -326,7 +326,7 @@ Depth-limited search is Memory efficient.
 
 #### Example:
 
-![Uninformed Search Algorithms](depth-limited-search-algorithm.png)
+![Uninformed Search Algorithms](images/depth-limited-search-algorithm.png)
 
 **Completeness:** DLS search algorithm is complete if the solution is above the depth-limit.
 
@@ -350,7 +350,7 @@ Uniform-cost search is a searching algorithm used for traversing a weighted tree
 
 #### Example:
 
-![Uninformed Search Algorithms](uniform-cost-search-algorithm.png)
+![Uninformed Search Algorithms](images/uniform-cost-search-algorithm.png)
 
 **Completeness:**
 
@@ -392,7 +392,7 @@ The iterative search algorithm is useful uninformed search when search space is 
 
 Following tree structure is showing the iterative deepening depth-first search. IDDFS algorithm performs various iterations until it does not find the goal node. The iteration performed by the algorithm is given as:
 
-![Uninformed Search Algorithms](iterative-deepeningdepth-first-search.png)
+![Uninformed Search Algorithms](images/iterative-deepeningdepth-first-search.png)
 
 1'st Iteration-----> A  
 2'nd Iteration----> A, B, C  
@@ -438,7 +438,7 @@ In the below search tree, bidirectional search algorithm is applied. This algori
 
 The algorithm terminates at node 9 where two searches meet.
 
-![Uninformed Search Algorithms](bidirectional-search-algorithm.png)
+![Uninformed Search Algorithms](images/bidirectional-search-algorithm.png)
 
 **Completeness:** Bidirectional Search is complete if we use BFS in both searches.
 
@@ -505,11 +505,11 @@ The greedy best first algorithm is implemented by the priority queue.
 
 Consider the below search problem, and we will traverse it using greedy best-first search. At each iteration, each node is expanded using evaluation function f(n)=h(n) , which is given in the below table.
 
-![Informed Search Algorithms](informed-search-algorithms.png)
+![Informed Search Algorithms](images/informed-search-algorithms.png)
 
 In this search example, we are using two lists which are **OPEN** and **CLOSED** Lists. Following are the iteration for traversing the above example.
 
-![Informed Search Algorithms](informed-search-algorithms2.png)
+![Informed Search Algorithms](images/informed-search-algorithms2.png)
 
 **Expand the nodes of S and put in the CLOSED list**
 
@@ -539,7 +539,7 @@ A* search is the most commonly known form of best-first search. It uses heuristi
 
 In A* search algorithm, we use search heuristic as well as the cost to reach the node. Hence we can combine both costs as following, and this sum is called as a **fitness number**.
 
-![Informed Search Algorithms](informed-search-algorithms3.png)
+![Informed Search Algorithms](images/informed-search-algorithms3.png)
 
 At each point in the search space, only those node is expanded which have the lowest value of f(n), and the algorithm terminates when the goal node is found.
 
@@ -575,11 +575,11 @@ In this example, we will traverse the given graph using the A* algorithm. The he
 
 Here we will use OPEN and CLOSED list.
 
-![Informed Search Algorithms](informed-search-algorithms4.png)
+![Informed Search Algorithms](images/informed-search-algorithms4.png)
 
 **Solution:**
 
-![Informed Search Algorithms](informed-search-algorithms5.png)
+![Informed Search Algorithms](images/informed-search-algorithms5.png)
 
 **Initialization:** {(S, 5)}
 
@@ -637,7 +637,7 @@ The state-space landscape is a graphical representation of the hill-climbing alg
 
 On Y-axis we have taken the function which can be an objective function or cost function, and state-space on the x-axis. If the function on Y-axis is cost then, the goal of search is to find the global minimum and local minimum. If the function of Y-axis is Objective function, then the goal of the search is to find the global maximum and local maximum.
 
-![Hill Climbing Algorithm in AI](hill-climbing-algorithm-in-ai.png)
+![Hill Climbing Algorithm in AI](images/hill-climbing-algorithm-in-ai.png)
 
 ### Different regions in the state space landscape:
 
@@ -702,19 +702,19 @@ Stochastic hill climbing does not examine for all its neighbor before moving. Ra
 
 **Solution:** Backtracking technique can be a solution of the local maximum in state space landscape. Create a list of the promising path so that the algorithm can backtrack the search space and explore other paths as well.
 
-![Hill Climbing Algorithm in AI](hill-climbing-algorithm-in-ai2.png)
+![Hill Climbing Algorithm in AI](images/hill-climbing-algorithm-in-ai2.png)
 
 **2. Plateau:** A plateau is the flat area of the search space in which all the neighbor states of the current state contains the same value, because of this algorithm does not find any best direction to move. A hill-climbing search might be lost in the plateau area.
 
 **Solution:** The solution for the plateau is to take big steps or very little steps while searching, to solve the problem. Randomly select a state which is far away from the current state so it is possible that the algorithm could find non-plateau region.
 
-![Hill Climbing Algorithm in AI](hill-climbing-algorithm-in-ai3.png)
+![Hill Climbing Algorithm in AI](images/hill-climbing-algorithm-in-ai3.png)
 
 **3. Ridges:** A ridge is a special form of the local maximum. It has an area which is higher than its surrounding areas, but itself has a slope, and cannot be reached in a single move.
 
 **Solution:** With the use of bidirectional search, or by moving in different directions, we can improve this problem.
 
-![Hill Climbing Algorithm in AI](hill-climbing-algorithm-in-ai4.png)
+![Hill Climbing Algorithm in AI](images/hill-climbing-algorithm-in-ai4.png)
 
 ### Simulated Annealing:
 
