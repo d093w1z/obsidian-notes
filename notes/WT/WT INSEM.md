@@ -86,7 +86,8 @@ h1 {
 <p style="color:white;">Something usefull here.</p>
 
 </body>
-</html>```
+</html>
+```
 
 **8. Write and explain text related CSS properties.**
 | Property | Description | Values |
