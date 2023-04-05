@@ -158,6 +158,7 @@ not everything known about env
 perform actions using the current percept, rather than the percept history.
 condition-action rule is used as the basis for the agent function.
 fully observable environment is ideal for the success of the agent function.
+
 ![[images/sra.png]]
 
 
@@ -166,6 +167,7 @@ consider the percept history in their actions.
 can still work well even in an environment that is not fully observable
 use an internal model that determines the percept history and effect of actions
 reflect on certain aspects of the present state that have been unobserved.
+
 ![[images/mba.png]]
 
 ### Goal-based agents
@@ -173,6 +175,7 @@ have higher capabilities
 use goal information to describe desirable capabilities.
 choose among various possibilities.
 select the best action that enhances the attainment of the goal.
+
 ![[images/gba.png]]
 
 ### Utility-based agents
@@ -180,6 +183,7 @@ make choices based on utility.
 more advanced because of an extra component of utility measurement.
 a state is mapped against a certain measure of utility.
 A rational agent selects the action that optimizes the expected utility of the outcome.
+
 ![[images/uba.png]]
 
 ### Learning agents
@@ -189,6 +193,7 @@ Learning agents have the following elements.
 + The critic: It provides feedback on how the agent is doing.
 + The performance element: This element decides on the external action that needs to be taken.
 + The problem generator: This acts as a feedback agent that performs certain tasks such as making suggestions (new) and keeping history
+
 ![[images/la.png]]
 
 # Unit 2
