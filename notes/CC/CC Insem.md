@@ -82,7 +82,7 @@ Backend refers to the cloud itself which is used by the service provider. It con
 11.  **Analytics**– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
 
 ## Q3. Describe the Trends in Cloud Computing?
-![[Pasted image 20230407160011.png|500]]
+![](20230407160011.png|500)
 As more businesses rely on on-demand IT for anything from accounting software to full-fledged IaaS, PaaS, and SaaS solutions, the cloud continues to be a vital resource across multiple industries. Let’s have a look at five of the [cloud computing trends](https://www.veritis.com/blog/the-6-cloud-trends-which-shall-dominate-2022/) you can expect to witness in the future of cloud computing.
 
 **1) The Growth of Serverless Computing**
@@ -224,8 +224,7 @@ The cloud deployment model identifies the specific type of cloud environment bas
 	-   **Limited Scalability:** Community cloud is relatively less scalable as many organizations share the same resources according to their collaborative interests. 
 	-   **Rigid in customization:** As the data and resources are shared among different organizations according to their mutual interests if an organization wants some changes according to their needs they cannot do so because it will have an impact on other organizations.
 	
-     ![[Pasted image 20230407094158.png|400]] 
-     ![[Pasted image 20230407094339.png|400]]
+![](20230407094158.png|400)     ![](20230407094339.png|400)
 
 ## Q7. Describe Cloud Computing Reference Model with suitable diagram? 
 
@@ -233,7 +232,7 @@ The cloud deployment model identifies the specific type of cloud environment bas
 
 Seven step migration model:
 
-  ![[Pasted image 20230407084543.png|400]]
+  ![]('20230407084543.png'|400)
     1.  ASSESSMENT
 	Migration starts with an assessment of the issues relating to migration, at the application, code, design, and architecture levels. assessments are also required for tools being used, functionality, test cases, and configuration of the application. The proof of concepts for migration and the corresponding pricing details will help to assess these issues properly.
 	 2.  ISOLATE
@@ -262,11 +261,11 @@ Cloud management refers to the process of managing and optimizing the usage, per
 2.  Monitoring and Performance Management: Once the cloud infrastructure is set up, it needs to be monitored and managed for optimal performance. This involves tracking metrics such as CPU utilization, network traffic, and storage usage to identify potential issues and ensure that the system is running smoothly. Cloud management tools such as monitoring dashboards and alerts are used to facilitate this process.
 3.  Capacity Planning and Scaling: Cloud management also involves capacity planning and scaling, which involves forecasting resource usage and scaling the infrastructure up or down as needed to meet demand. This is typically done using automated scaling and load-balancing tools that can dynamically adjust the capacity of the cloud infrastructure based on changing demand.
 4.  Security and Compliance: Cloud management also involves ensuring the security and compliance of the cloud infrastructure and applications. This includes setting up firewalls, access controls, encryption, and other security measures to protect against unauthorized access and data breaches. Compliance regulations such as GDPR and HIPAA must also be adhered to.
-5.  Cost Management: Cloud management also involves cost management, which involves optimizing the cost of using cloud resources and services. This includes identifying and eliminating wasteful spending, monitoring usage and costs, and implementing cost-saving measures such as reserved instances and spot instances.
+5. Cost Management: Cloud management also involves cost management, which involves optimizing the cost of using cloud resources and services. This includes identifying and eliminating wasteful spending, monitoring usage and costs, and implementing cost-saving measures such as reserved instances and spot instances.
 6.  Disaster Recovery and Business Continuity: Cloud management also involves disaster recovery and business continuity planning, which involves setting up backup and recovery mechanisms to ensure that data and applications can be restored in the event of a disaster or outage.
 
 ## Q11. How the HDFS Architecture works? Explain it with suitable diagram and features?
-![[Pasted image 20230407112036.png|500]]	 
+![](20230407112036.png|500)	 
 HDFS/ Hadoop file system is a distributed file system that organizes files and stores their data on a distributed computing software. Its Open source framework lic under Apache v2. Processes large datasets in realtime app. It is a block structured file system where each file is divided in predetermined size blocks and these are stored at cluster of one or many machines. Hadoop is used in retail, healthcare, finance, security,etc. Mapreduce software provides an easy framework for application writing when it comes to handling massive amounts of structured and unstructured data. This is mainly achieved by its facilitation of parallel processing of data.
 **Architecture:** 
 		 HDFS is composed of master-slave architecture, which includes the following elements:
