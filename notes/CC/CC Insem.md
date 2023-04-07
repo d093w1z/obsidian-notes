@@ -223,8 +223,10 @@ The cloud deployment model identifies the specific type of cloud environment bas
 	**Disadvantages of Community Cloud Model:**
 	-   **Limited Scalability:** Community cloud is relatively less scalable as many organizations share the same resources according to their collaborative interests. 
 	-   **Rigid in customization:** As the data and resources are shared among different organizations according to their mutual interests if an organization wants some changes according to their needs they cannot do so because it will have an impact on other organizations.
-     ![](images/20230407094158.png) 
-     ![](images/20230407094339.png)
+
+![](images/20230407094158.png) 
+
+![](images/20230407094339.png)
 
 ## Q7. Describe Cloud Computing Reference Model with suitable diagram? 
 
@@ -232,21 +234,21 @@ The cloud deployment model identifies the specific type of cloud environment bas
 
 Seven step migration model:
 
-  ![](images/20230407084543.png)
-    1.  ASSESSMENT
-	Migration starts with an assessment of the issues relating to migration, at the application, code, design, and architecture levels. assessments are also required for tools being used, functionality, test cases, and configuration of the application. The proof of concepts for migration and the corresponding pricing details will help to assess these issues properly.
-	 2.  ISOLATE
-	The second step is the isolation of all the environmental and systemic dependencies of the enterprise application within the captive data center. These include library, application, and architectural dependencies. This step results in a better understanding of the complexity of the migration.
-	3. MAP
-	A mapping construct is generated to separate the components that should reside in the captive data center from the ones that will go into the cloud. you should create a mapping of the current IT infrastructure and applications to the cloud. It helps you identify which cloud services and resources you need to use and how to integrate them with your existing systems.
-	4. RE-ARCHITECT
-	It is likely that a substantial part of the application has to be re-architected and implemented in the cloud. This can affect the functionalities of the application and some of these might be lost. It is possible to approximate lost functionality using cloud runtime support API.
-    5. AUGMENT
-	The features of cloud computing service are used to augment the application. This step involves adding new cloud services and resources to your existing infrastructure. You can use this step to enhance your systems and applications, add new features, and improve performance.
-	6. TEST
-	Once the augmentation is done, the application needs to be validated and tested. This is to be done using a test suite for the applications on the cloud. New test cases due to augmentation and proof-of-concepts are also tested at this stage.
-	7. OPTIMIZE
-	The test results from the last step can be mixed and so require iteration and optimization. It may take several optimizing iterations for the migration to be successful. It is best to iterate through this seven step model as this will ensure the migration to be robust and comprehensive.
+![](images/20230407084543.png)
+1.  ASSESSMENT
+Migration starts with an assessment of the issues relating to migration, at the application, code, design, and architecture levels. assessments are also required for tools being used, functionality, test cases, and configuration of the application. The proof of concepts for migration and the corresponding pricing details will help to assess these issues properly.
+ 2.  ISOLATE
+The second step is the isolation of all the environmental and systemic dependencies of the enterprise application within the captive data center. These include library, application, and architectural dependencies. This step results in a better understanding of the complexity of the migration.
+3. MAP
+A mapping construct is generated to separate the components that should reside in the captive data center from the ones that will go into the cloud. you should create a mapping of the current IT infrastructure and applications to the cloud. It helps you identify which cloud services and resources you need to use and how to integrate them with your existing systems.
+4. RE-ARCHITECT
+It is likely that a substantial part of the application has to be re-architected and implemented in the cloud. This can affect the functionalities of the application and some of these might be lost. It is possible to approximate lost functionality using cloud runtime support API.
+5. AUGMENT
+The features of cloud computing service are used to augment the application. This step involves adding new cloud services and resources to your existing infrastructure. You can use this step to enhance your systems and applications, add new features, and improve performance.
+6. TEST
+Once the augmentation is done, the application needs to be validated and tested. This is to be done using a test suite for the applications on the cloud. New test cases due to augmentation and proof-of-concepts are also tested at this stage.
+7. OPTIMIZE
+The test results from the last step can be mixed and so require iteration and optimization. It may take several optimizing iterations for the migration to be successful. It is best to iterate through this seven step model as this will ensure the migration to be robust and comprehensive.
 
 ## Q9. Describe Cloud Computing Logical Architecture with suitable diagram?
 
@@ -265,7 +267,8 @@ Cloud management refers to the process of managing and optimizing the usage, per
 6.  Disaster Recovery and Business Continuity: Cloud management also involves disaster recovery and business continuity planning, which involves setting up backup and recovery mechanisms to ensure that data and applications can be restored in the event of a disaster or outage.
 
 ## Q11. How the HDFS Architecture works? Explain it with suitable diagram and features?
-![](images/20230407112036.png)	 
+![](images/20230407112036.png)
+
 HDFS/ Hadoop file system is a distributed file system that organizes files and stores their data on a distributed computing software. Its Open source framework lic under Apache v2. Processes large datasets in realtime app. It is a block structured file system where each file is divided in predetermined size blocks and these are stored at cluster of one or many machines. Hadoop is used in retail, healthcare, finance, security,etc. Mapreduce software provides an easy framework for application writing when it comes to handling massive amounts of structured and unstructured data. This is mainly achieved by its facilitation of parallel processing of data.
 **Architecture:** 
 		 HDFS is composed of master-slave architecture, which includes the following elements:
@@ -366,3 +369,4 @@ Direct Attached Storage (DAS) is a type of storage architecture where storage de
 2.  Limited Redundancy: DAS provides limited redundancy because it is directly connected to a single server or workstation. If the server or workstation fails, the data stored on the DAS device may be lost or inaccessible.
 3.  Limited Accessibility: DAS is limited in terms of accessibility because it is directly connected to a single server or workstation. This means that it may not be the best option for organizations that require remote access or multi-user access.
 4.  Limited Backup and Recovery: DAS provides limited backup and recovery options because it is directly connected to a single server or workstation. This means that it may not be the best option for organizations that require frequent backups or need to recover data quickly in case of a disaster.
+![](storage-direct_attached_storage_mobile.png)
