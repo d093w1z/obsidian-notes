@@ -82,7 +82,7 @@ Backend refers to the cloud itself which is used by the service provider. It con
 11.  **Analytics**– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
 
 ## Q3. Describe the Trends in Cloud Computing?
-![](images/20230407160011.png|500)![](20230407160011.png)
+![](images/20230407160011.png|500)![](images/20230407160011.png)
 As more businesses rely on on-demand IT for anything from accounting software to full-fledged IaaS, PaaS, and SaaS solutions, the cloud continues to be a vital resource across multiple industries. Let’s have a look at five of the [cloud computing trends](https://www.veritis.com/blog/the-6-cloud-trends-which-shall-dominate-2022/) you can expect to witness in the future of cloud computing.
 
 **1) The Growth of Serverless Computing**
