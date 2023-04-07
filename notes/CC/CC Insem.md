@@ -1,6 +1,6 @@
 # Unit1
 
-## 1.  Define Cloud Computing & Explain the importance of Cloud Computing?
+## Q1.   Define Cloud Computing & Explain the importance of Cloud Computing?
 ### What is cloud
 - Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
 - Cloud storage has grown increasingly popular among individuals who need larger storage space and for businesses seeking an efficient off-site data back-up solution.
@@ -17,7 +17,8 @@ Regardless of the kind of service, cloud computing services provide users with a
 -   Audio and video streaming
 -   Delivering software on demand
   
-### Importance
+### Importance:
+
 ### The Importance of Cloud Computing lies in the many Benefits that this process offers:
 
 **1) Scalability:** Cloud computing allows you to use as many or as few resources as you need. Therefore, depending on your business needs or projected traffic to your business you can choose to increase or decrease your investment in IT infrastructure
@@ -40,12 +41,13 @@ Regardless of the kind of service, cloud computing services provide users with a
 
 **4) Competitiveness:** Cloud computing is a transformational technology that has helped organizations across sectors deliver their products and services in a better way than before. Also, having to spend less time, effort, and money on I.T. resources allows businesses that use cloud computing to pay more attention to the business and respond better to changing market conditions; as opposed to those who haven’t yet understood the importance of cloud computing in business organizations.
 
-## 2.  Explain Cloud System Architecture with suitable diagram?
-**Cloud Computing Architecture :**  
+## Q2.   Explain Cloud System Architecture with suitable diagram?
+### Cloud Computing Architecture :  
 The cloud architecture is divided into 2 parts i.e.
 
 1.  Frontend
 2.  Backend
+
 ![](Pasted%20image%2020230407174219.png)
 ![]()
 
@@ -80,7 +82,7 @@ Backend refers to the cloud itself which is used by the service provider. It con
 10.  **Networking**– Networking in backend services that provide networking infrastructure for application in the cloud, such as load balancing, DNS and virtual private networks. 
 11.  **Analytics**– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
 
-## 3.  Describe the Trends in Cloud Computing?
+## Q3.   Describe the Trends in Cloud Computing?
 
 As more businesses rely on on-demand IT for anything from accounting software to full-fledged IaaS, PaaS, and SaaS solutions, the cloud continues to be a vital resource across multiple industries. Let’s have a look at five of the [cloud computing trends](https://www.veritis.com/blog/the-6-cloud-trends-which-shall-dominate-2022/) you can expect to witness in the future of cloud computing.
 
@@ -165,38 +167,59 @@ The main barriers to cloud adoption continue to be issues about compliance, priv
 
 A primary priority in 2022 will also be gaining visibility across many cloud application platforms. Additionally, business owners desire transparency across all IT environments to close gaps resulting in compliance infringements or cyberattacks.
 
-## 4.  Draw and Explain Cloud Service Model? Iaas paas saas
+## Q4.   Draw and Explain Cloud Service Model? Iaas paas saas
 
-## 5.  Define Cloud Computing & Describe the Pros and Cons of Cloud Computing?
+## Q5.   Define Cloud Computing & Describe the Pros and Cons of Cloud Computing?
 
-## 6.  Discuss Cloud Deployment Models with suitable diagram? Public priv hybrid
+## Q6.   Discuss Cloud Deployment Models with suitable diagram? Public priv hybrid
 
-## 7.  Describe Cloud Computing Reference Model with suitable diagram? 
+## Q7.   Describe Cloud Computing Reference Model with suitable diagram? 
 
-## 8.  Explain Seven-step model of migration into a Cloud?
+## Q8.   Explain Seven-step model of migration into a Cloud?
+Seven step migration model:
+  
+    1.  ASSESSMENT
+Migration starts with an assessment of the issues relating to migration, at the application, code, design, and architecture levels. assessments are also required for tools being used, functionality, test cases, and configuration of the application. The proof of concepts for migration and the corresponding pricing details will help to assess these issues properly.
 
-## 9.  Describe Cloud Computing Logical Architecture with suitable diagram?
+     2. ISOLATE
+The second step is the isolation of all the environmental and systemic dependencies of the enterprise application within the captive data centre. These include library, application, and architectural dependencies. This step results in a better understanding of the complexity of the migration.
+
+3. MAP
+A mapping construct is generated to separate the components that should reside in the captive data centre from the ones that will go into the cloud. you should create a mapping of the current IT infrastructure and applications to the cloud. It helps you identify which cloud services and resources you need to use and how to integrate them with your existing systems.
+4. RE-ARCHITECT
+It is likely that a substantial part of the application has to be re-architected and implemented in the cloud. This can affect the functionalities of the application and some of these might be lost. It is possible to approximate lost functionality using cloud runtime support API.
+
+5. AUGMENT
+The features of cloud computing service are used to augment the application. This step involves adding new cloud services and resources to your existing infrastructure. You can use this step to enhance your systems and applications, add new features, and improve performance.
+
+6. TEST
+Once the augmentation is done, the application needs to be validated and tested. This is to be done using a test suite for the applications on the cloud. New test cases due to augmentation and proof-of-concepts are also tested at this stage.
+
+7. OPTIMISE
+The test results from the last step can be mixed and so require iteration and optimization. It may take several optimizing iterations for the migration to be successful. It is best to iterate through this seven step model as this will ensure the migration to be robust and comprehensive.
+
+## Q9.   Describe Cloud Computing Logical Architecture with suitable diagram?
 
   
   
 
 # Unit 2
 
-## 10.  Explain how the Cloud Data Management Works?
+## Q10.   Explain how the Cloud Data Management Works?
 
-## 11.  How the HDFS Architecture works? Explain it with suitable diagram and features?
+## Q11.   How the HDFS Architecture works? Explain it with suitable diagram and features?
 
-## 12.  Explain the features of GFS Architecture?
+## Q12.   Explain the features of GFS Architecture?
 
-## 13.  Describe Data Intensive Technologies for Cloud Computing?
+## Q13.   Describe Data Intensive Technologies for Cloud Computing?
 
-## 14.  Explain the Storage Area Network with suitable diagram? SAN
+## Q14.   Explain the Storage Area Network with suitable diagram? SAN
 
-## 15.  Describe Cloud Datastores with suitable examples?
+## Q15.   Describe Cloud Datastores with suitable examples?
 
-## 16.  How does the Grid Computing Works in view of Data Storage? Explain it with suitable diagram.
+## Q16.   How does the Grid Computing Works in view of Data Storage? Explain it with suitable diagram.
 
 
-## 17.  Interpret the usage of Network Attached Storage(NAS)
+## Q17.   Interpret the usage of Network Attached Storage(NAS)
 
-## 18.  Identify the advantage and disadvantageous of Direct Attached Storage(DAS)
+## Q18.   Identify the advantage and disadvantageous of Direct Attached Storage(DAS)
