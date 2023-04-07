@@ -48,7 +48,7 @@ The cloud architecture is divided into 2 parts i.e.
 1.  Frontend
 2.  Backend
 
-![](Pasted%20image%2020230407174219.png)
+![](images/20230407174219.png)
 
 Architecture of cloud computing is the combination of both [SOA (Service Oriented Architecture)](https://www.geeksforgeeks.org/service-oriented-architecture/) and EDA (Event Driven Architecture). Client infrastructure, application, service, runtime cloud, storage, infrastructure, management and security all these are the components of cloud computing architecture.
 
