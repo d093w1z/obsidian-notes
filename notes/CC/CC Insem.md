@@ -82,7 +82,7 @@ Backend refers to the cloud itself which is used by the service provider. It con
 11.  **Analytics**– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
 
 ## Q3. Describe the Trends in Cloud Computing?
-![](images/20230407160011.png)![](images/20230407160011.png)
+![](images/20230407160011.png)
 As more businesses rely on on-demand IT for anything from accounting software to full-fledged IaaS, PaaS, and SaaS solutions, the cloud continues to be a vital resource across multiple industries. Let’s have a look at five of the [cloud computing trends](https://www.veritis.com/blog/the-6-cloud-trends-which-shall-dominate-2022/) you can expect to witness in the future of cloud computing.
 
 **1) The Growth of Serverless Computing**
@@ -223,8 +223,8 @@ The cloud deployment model identifies the specific type of cloud environment bas
 	**Disadvantages of Community Cloud Model:**
 	-   **Limited Scalability:** Community cloud is relatively less scalable as many organizations share the same resources according to their collaborative interests. 
 	-   **Rigid in customization:** As the data and resources are shared among different organizations according to their mutual interests if an organization wants some changes according to their needs they cannot do so because it will have an impact on other organizations.
-     ![](images/20230407094158.png|400) 
-     ![](images/20230407094339.png|400)
+     ![](images/20230407094158.png) 
+     ![](images/20230407094339.png)
 
 ## Q7. Describe Cloud Computing Reference Model with suitable diagram? 
 
@@ -232,7 +232,7 @@ The cloud deployment model identifies the specific type of cloud environment bas
 
 Seven step migration model:
 
-  ![](images/20230407084543.png|400)
+  ![](images/20230407084543.png)
     1.  ASSESSMENT
 	Migration starts with an assessment of the issues relating to migration, at the application, code, design, and architecture levels. assessments are also required for tools being used, functionality, test cases, and configuration of the application. The proof of concepts for migration and the corresponding pricing details will help to assess these issues properly.
 	 2.  ISOLATE
@@ -265,7 +265,7 @@ Cloud management refers to the process of managing and optimizing the usage, per
 6.  Disaster Recovery and Business Continuity: Cloud management also involves disaster recovery and business continuity planning, which involves setting up backup and recovery mechanisms to ensure that data and applications can be restored in the event of a disaster or outage.
 
 ## Q11. How the HDFS Architecture works? Explain it with suitable diagram and features?
-![](images/20230407112036.png|500)	 
+![](images/20230407112036.png)	 
 HDFS/ Hadoop file system is a distributed file system that organizes files and stores their data on a distributed computing software. Its Open source framework lic under Apache v2. Processes large datasets in realtime app. It is a block structured file system where each file is divided in predetermined size blocks and these are stored at cluster of one or many machines. Hadoop is used in retail, healthcare, finance, security,etc. Mapreduce software provides an easy framework for application writing when it comes to handling massive amounts of structured and unstructured data. This is mainly achieved by its facilitation of parallel processing of data.
 **Architecture:** 
 		 HDFS is composed of master-slave architecture, which includes the following elements:
