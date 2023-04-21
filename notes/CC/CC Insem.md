@@ -93,7 +93,7 @@ Serverless computing is a cloud approach in which the customer doesn’t have to
 
 -   You don’t pay a set price for a certain amount of bandwidth or storage. Instead, you can go with the pay-as-you-go model.
 -   The internal team is not responsible for managing the servers.
--   The team can spend more time developing and developing new concepts because internal developers don’t have to provision complicated server clusters.
+-   The team can spend more time developing new concepts because internal developers don’t have to provision complicated server clusters.
 -   There is no risk of under- or over-provisioning because serverless platforms scale autonomously without any help from the internal staff.
 
 Serverless computing is rapidly growing at a quick pace. Expect to see more businesses use serverless solutions in the upcoming year as it offers yet another way to improve team agility and save costs.
@@ -307,7 +307,7 @@ HDFS/ Hadoop file system is a distributed file system that organizes files and s
 Google File System (GFS) is a scalable distributed file system created by Google Inc. and   developed to accommodate Google’s expanding data processing requirements. It manages two types of data namely File metadata and File Data. The GFS node cluster consists of a single master and several chunk servers that various client systems regularly access.
 	    The master is in charge of managing metadata, including namespace, access control, and mapping data. The master communicates with each chunk server by timed heartbeat messages and keeps track of its status updates.
 	 The features of Google file system are as follows:
-              - Scalability: 
+         - Scalability: 
 		      scale horizontally to handle petabytes of data by distributing the data across multiple servers. Thus, storing large amounts of data in the cloud.
 	    - High Fault tolerance+ Data Replication:
 		     handle server failures and data corruption by replicating the data across multiple servers. Master and chunk servers can be restarted in a few seconds and with such a fast recovery. it reduces the risk of data loss. shadow master handles.

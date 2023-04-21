@@ -1,0 +1,20 @@
+# Topics for Monday(24/04/2023)
+- [ ] Basic Data Structures: 
+	- [ ] Arrays
+	- [ ] Strings
+	- [ ] Stacks
+	- [ ] Queues
+	- [ ] linked lists
+	- [ ] Hashmap(Hashing concept)
+- [ ] Asymptotic analysis of algorithms
+- [ ] Basic math operations:
+	- [ ] addition
+	- [ ] subtraction
+	- [ ] multiplication
+	- [ ] division
+	- [ ] exponentiation
+	- [ ] binary number system
+		- [ ] binary representation
+		- [ ] 1's and 2's complement
+	- [ ] binary operations( bitwise and, or, not, xor)
+		- [ ] Learn their actual use-cases, not just the truth-tables
