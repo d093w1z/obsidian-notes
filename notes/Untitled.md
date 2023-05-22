@@ -1,0 +1,5 @@
+- [ ] availability
+- [x] problem statement
+	- [ ] g1 : p1 quora
+- [ ] project implementation
+- [ ] 
