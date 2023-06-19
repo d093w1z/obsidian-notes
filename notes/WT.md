@@ -18,13 +18,13 @@ sticker: 1f5a5-fe0f
 - [ ] XML:
     - [x] XML documents and vocabularies
     - [x] XML declaration
-    - [ ] XML Namespaces
+    - [x] XML Namespaces
     - [ ] DOM based XML processing
-    - [ ] transforming XML documents
-    - [ ] DTD:
-        - [ ] Schema
-        - [ ] elements
-        - [ ] attributes
+    - [x] transforming XML documents
+    - [x] DTD:
+        - [x] Schema
+        - [x] elements
+        - [x] attributes
 - [ ] AJAX:
     - [ ] Introduction
     - [ ] Working of AJAX
@@ -58,11 +58,11 @@ Unit IV JSP and Web Services
   
 Unit V Server Side Scripting Languages
 - [ ] PHP:
-    - [ ] Introduction to PHP
-    - [ ] uses of PHP
+    - [x] Introduction to PHP
+    - [x] uses of PHP
     - [ ] general syntactic characteristics
     - [ ] Primitives
-    - [ ] operations andexpressions
+    - [ ] operations and expressions
     - [ ] output
     - [ ] control statements
     - [ ] arrays
