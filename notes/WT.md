@@ -311,3 +311,84 @@ Benefits of Struts:
     
 
 Overall, Struts offers a structured approach to web application development, promoting code organization, reusability, and maintainability. It simplifies development and provides a robust foundation for building applications.
+
+## EJB (Enterprise JavaBeans)
+
+EJB stands for Enterprise JavaBeans, which is a server-side component model for building distributed, scalable, and transactional enterprise applications in Java. EJB provides a framework for developing reusable and portable business components that can be deployed on any EJB-compliant application server.
+
+There are three types of EJBs:
+
+1. Session Beans: Session beans are the most common type of EJB and are used to encapsulate business logic and represent an individual client's interaction with the application. They can be stateless or stateful.
+    
+    - Stateless Session Beans: These beans do not maintain conversational state for a specific client. They are suitable for implementing stateless services or performing independent operations on behalf of clients.
+        
+    - Stateful Session Beans: Stateful session beans maintain conversational state for a specific client across multiple method invocations. They are useful when the client needs to maintain stateful information or context throughout a series of method calls.
+        
+2. Entity Beans: Entity beans represent persistent data and are used for data storage and retrieval. They are typically used to model data from a database. In the latest versions of EJB, the use of entity beans has been deprecated in favor of other persistence frameworks like Java Persistence API (JPA) or Object-Relational Mapping (ORM) tools such as Hibernate.
+    
+3. Message-Driven Beans: Message-driven beans (MDBs) provide a way to asynchronously process messages from a messaging system. They are used in Java Message Service (JMS) environments to handle the processing of messages. MDBs are often used in scenarios where decoupling the sender and receiver is required, such as event-driven architectures or message-driven systems.
+    
+
+These EJB types provide different functionalities and are designed to address various aspects of enterprise application development, such as business logic encapsulation, data persistence, and asynchronous messaging.
+
+## Rails with AJAX
+
+Ruby on Rails (Rails) is a web application framework that follows the Model-View-Controller (MVC) architectural pattern. AJAX (Asynchronous JavaScript and XML) is a technique that allows web applications to update parts of a page without reloading the entire page.
+
+When Rails is combined with AJAX, it enables developers to create more interactive and responsive web applications. With AJAX, Rails applications can send asynchronous requests to the server and update specific portions of a webpage dynamically, providing a smoother user experience.
+
+Rails provides built-in support for AJAX through its JavaScript libraries like Prototype and jQuery. These libraries simplify the process of making AJAX requests and handling responses. Rails also includes features like unobtrusive JavaScript, which separates JavaScript code from HTML markup, making it easier to maintain and update.
+
+By leveraging AJAX in Rails, developers can implement features such as live search, auto-complete, infinite scrolling, real-time updates, and form submissions without page reloads. This improves the overall user experience by reducing waiting times and providing instant feedback.
+
+## WAP and WML
+
+WAP (Wireless Application Protocol) is a standardized technology for accessing information and services on wireless devices, such as mobile phones, through the use of the internet. WAP defines a set of protocols and specifications for enabling wireless communication and data transfer.
+
+WML (Wireless Markup Language) is a markup language specifically designed for creating content for mobile devices within the WAP framework. It is similar to HTML but optimized for smaller screens and limited bandwidth.
+
+WML is used to create mobile-specific websites or applications that can be accessed by WAP-enabled devices. It allows developers to structure content, define navigation, and present information in a format suitable for mobile devices. WML supports basic user interface components, including text, images, links, forms, and menus.
+
+However, it's important to note that WAP and WML have become less popular in recent years, as advancements in mobile technologies have led to the dominance of smartphones and the adoption of more capable web technologies like HTML5, CSS, and JavaScript. Modern mobile websites and applications are now primarily built using responsive web design techniques to ensure compatibility with various screen sizes and devices.
+
+## Positive Aspects of Rails
+
+Ruby on Rails (Rails) offers several positive aspects for developers. Here are nine key advantages of Rails along with examples:
+
+1. Convention over Configuration: Rails follows the principle of "convention over configuration," reducing the need for explicit configuration. For example, Rails automatically maps URLs to controller actions, simplifying the routing setup.
+    
+2. DRY (Don't Repeat Yourself): Rails emphasizes code reusability and provides features like partials and helpers. For instance, defining a shared navigation menu as a partial avoids duplicating the code across multiple views.
+    
+3. MVC Architecture: Rails follows the Model-View-Controller architectural pattern, promoting separation of concerns and code organization. Models handle data and business logic, views handle presentation, and controllers manage interactions between models and views.
+    
+4. Rapid Development: Rails focuses on productivity and provides tools like scaffolding for quickly generating code. This allows developers to build prototypes or initial versions of applications rapidly.
+    
+5. ActiveRecord: Rails incorporates the ActiveRecord ORM for simplified database interactions. It provides an intuitive interface for querying and manipulating databases using Ruby methods. For example, `User.where(name: "John")` finds all users named "John" without writing SQL queries manually.
+    
+6. Testing Frameworks: Rails provides robust testing frameworks like RSpec and Minitest, promoting automated testing and code reliability. Tests help ensure application stability. With RSpec, expressive and readable tests can be written to cover different functionality aspects.
+    
+7. Gems and Libraries: Rails has a vast ecosystem of gems and libraries contributed by the community, offering ready-to-use solutions for common tasks. For instance, the Devise gem provides user authentication and registration functionality.
+    
+8. Community and Documentation: Rails has a large and active community that provides support, resources, and documentation. Online forums, mailing lists, and Stack Overflow are some examples of resources available to Rails developers.
+    
+9. Scalability: Rails applications can scale effectively using features like caching, background job processing, and integration with various deployment solutions. Caching mechanisms reduce database queries and improve performance.
+    
+
+These positive aspects of Rails contribute to its popularity and make it a preferred choice for web application development, enabling developers to build robust, maintainable, and scalable applications efficiently.
+
+## Object-Oriented Way to Connect MySQL Database with PHP
+
+To connect to a MySQL database using an object-oriented approach in PHP, you can use the MySQLi (MySQL Improved) extension or the PDO (PHP Data Objects) extension. Here's an explanation of both approaches:
+
+1. MySQLi Extension (Object-oriented style):
+
+phpCopy code
+
+`$host = 'localhost'; $username = 'your_username'; $password = 'your_password'; $database = 'your_database';  // Create a new MySQLi instance $mysqli = new mysqli($host, $username, $password, $database);  // Check for connection errors if ($mysqli->connect_errno) {    die('Failed to connect to MySQL: ' . $mysqli->connect_error); }  // Perform database operations $query = "SELECT * FROM users"; $result = $mysqli->query($query);  // Fetch results while ($row = $result->fetch_assoc()) {    // Process each row    echo $row['username'] . '<br>'; }  // Close the database connection $mysqli->close();`
+
+2. PDO Extension (Object-oriented style):
+
+
+`$host = 'localhost'; $username = 'your_username'; $password = 'your_password'; $database = 'your_database';  // Create a new PDO instance $dsn = "mysql:host=$host;dbname=$database;charset=utf8mb4"; $pdo = new PDO($dsn, $username, $password);  // Set PDO attributes $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);  // Perform database operations $query = "SELECT * FROM users"; $stmt = $pdo->query($query);  // Fetch results while ($row = $stmt->fetch()) {    // Process each row    echo $row['username'] . '<br>'; }  // Close the database connection $pdo = null;`
+
+Both approaches provide a flexible and object-oriented way to connect to a MySQL database in PHP. You can choose the approach that best fits your needs and coding style. Remember to handle errors, sanitize user input, and follow security best practices to ensure the safety of your database interactions.
