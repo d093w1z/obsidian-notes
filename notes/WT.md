@@ -100,8 +100,8 @@ Unit VI Ruby and Rails
     - [ ] Processing Forms
     - [ ] Rails Applications and Databases
     - [ ] Layouts
-    - [ ] Rails with Ajax
-- [ ] Introduction to EJB
+    - [x] Rails with Ajax
+- [x] Introduction to EJB
 
 pyq
 servlet lifecycle
@@ -616,3 +616,30 @@ Together, the CLR and CLI provide a powerful and consistent runtime environment 
 	- **REST (Representational State Transfer)**: REST is an architectural style that emphasizes a stateless, client-server communication model. RESTful web services use standard HTTP methods (GET, POST, PUT, DELETE) to perform operations on resources. They leverage the existing web infrastructure and are typically lightweight and easy to implement.
 		
 	- **UDDI (Universal Description, Discovery, and Integration)**: UDDI is a directory service that allows businesses to publish and discover web services. It provides a central registry where service providers can advertise their services, and consumers can search for and locate relevant services.
+
+## Scalar Types and Operations in Ruby:
+
+Ruby has several scalar types, which are data types that represent a single value. Here are some commonly used scalar types in Ruby:
+
+1. **Integer**: Represents whole numbers without decimal points. Example: `5`, `-10`, `1000`.
+    
+2. **Float**: Represents numbers with decimal points. Example: `3.14`, `-0.5`, `1.0`.
+    
+3. **String**: Represents a sequence of characters. Example: `"Hello"`, `'Ruby'`, `"123"`.
+    
+4. **Boolean**: Represents either `true` or `false`. Used in logical operations and conditional statements.
+    
+5. **Symbol**: Represents a unique identifier. Example: `:name`, `:status`, `:user_id`.
+    
+6. **Nil**: Represents the absence of a value. Example: `nil`, `null`.
+    
+
+These scalar types support various operations in Ruby. Here are some common operations:
+
+- Arithmetic Operations: Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`), Modulo (`%`).
+- String Operations: Concatenation (`+`), Substring (`[]`), Length (`length` or `size`).
+- Comparison Operations: Equal to (`==`), Not equal to (`!=`), Greater than (`>`), Less than (`<`), Greater than or equal to (`>=`), Less than or equal to (`<=`).
+- Logical Operations: AND (`&&`), OR (`||`), NOT (`!`).
+- Type Conversion: Converting between different scalar types using methods like `to_i`, `to_f`, `to_s`, etc.
+
+These scalar types and operations in Ruby provide flexibility and versatility in handling various kinds of data and performing computations.
