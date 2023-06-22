@@ -643,3 +643,26 @@ These scalar types support various operations in Ruby. Here are some common oper
 - Type Conversion: Converting between different scalar types using methods like `to_i`, `to_f`, `to_s`, etc.
 
 These scalar types and operations in Ruby provide flexibility and versatility in handling various kinds of data and performing computations.
+
+### EJB container
+
+An EJB (Enterprise JavaBeans) container is a runtime environment provided by Java EE (Enterprise Edition) servers for executing and managing EJB components. The EJB container plays a crucial role in the lifecycle management, scalability, and reliability of EJB-based applications. Here are some key aspects of an EJB container:
+
+1. **Lifecycle Management**: The EJB container is responsible for managing the lifecycle of EJB components, including their creation, activation, passivation, and removal. It ensures that EJB instances are properly initialized, pooled, and reused to handle client requests efficiently.
+    
+2. **Component Deployment**: The EJB container handles the deployment of EJB components within the Java EE application server. It provides a deployment descriptor (XML file) to configure the behavior of EJBs, such as transaction management, security, concurrency, and resource access.
+    
+3. **Transaction Management**: The EJB container supports declarative transaction management for EJBs. It handles the initiation, commit, and rollback of transactions, ensuring the atomicity, consistency, isolation, and durability (ACID) properties. Transactions can be managed using annotations or configuration settings in the deployment descriptor.
+    
+4. **Concurrency and Resource Pooling**: The EJB container manages concurrency and resource pooling for EJB components. It controls the number of concurrent requests that can be handled by an EJB and manages a pool of EJB instances to improve performance and scalability. This allows multiple clients to access the same EJB concurrently.
+    
+5. **Security**: The EJB container provides a security framework for securing EJB-based applications. It enforces access control policies, authentication, and authorization mechanisms defined in the deployment descriptor or annotations. The container ensures that only authorized clients can invoke EJB methods and access protected resources.
+    
+6. **Remote and Local Access**: The EJB container enables both remote and local access to EJB components. It supports remote method invocations (RMI) for accessing EJBs from remote clients across a network, as well as local method invocations for in-process communication within the same Java Virtual Machine (JVM).
+    
+7. **Integration with Java EE APIs**: The EJB container integrates with other Java EE APIs and services, such as JNDI (Java Naming and Directory Interface) for component lookup, JTA (Java Transaction API) for distributed transactions, JMS (Java Message Service) for messaging, and JPA (Java Persistence API) for database access.
+    
+
+By providing these services, the EJB container simplifies the development and deployment of enterprise applications, abstracting away the complexities of transaction management, concurrency, and resource pooling. It enables developers to focus on writing business logic while leveraging the container's robust infrastructure for scalability, reliability, and security.
+
+Overall, the EJB container acts as a runtime environment that hosts and manages the execution of EJB components, providing a powerful foundation for building scalable and enterprise-grade Java applications.
