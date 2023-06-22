@@ -382,13 +382,67 @@ To connect to a MySQL database using an object-oriented approach in PHP, you can
 
 1. MySQLi Extension (Object-oriented style):
 
-phpCopy code
+```php
+$host = 'localhost';
+$username = 'your_username';
+$password = 'your_password';
+$database = 'your_database';
 
-`$host = 'localhost'; $username = 'your_username'; $password = 'your_password'; $database = 'your_database';  // Create a new MySQLi instance $mysqli = new mysqli($host, $username, $password, $database);  // Check for connection errors if ($mysqli->connect_errno) {    die('Failed to connect to MySQL: ' . $mysqli->connect_error); }  // Perform database operations $query = "SELECT * FROM users"; $result = $mysqli->query($query);  // Fetch results while ($row = $result->fetch_assoc()) {    // Process each row    echo $row['username'] . '<br>'; }  // Close the database connection $mysqli->close();`
+// Create a new MySQLi instance
+$mysqli = new mysqli($host, $username, $password, $database);
+
+// Check for connection errors
+if ($mysqli->connect_errno) {
+   die('Failed to connect to MySQL: ' . $mysqli->connect_error);
+}
+
+// Perform database operations
+$query = "SELECT * FROM users";
+$result = $mysqli->query($query);
+
+// Fetch results
+while ($row = $result->fetch_assoc()) {
+   // Process each row
+   echo $row['username'] . '<br>';
+}
+
+// Close the database connection
+$mysqli->close();
+
+```
+
+
 
 2. PDO Extension (Object-oriented style):
 
+```php
+$host = 'localhost';
+$username = 'your_username';
+$password = 'your_password';
+$database = 'your_database';
 
-`$host = 'localhost'; $username = 'your_username'; $password = 'your_password'; $database = 'your_database';  // Create a new PDO instance $dsn = "mysql:host=$host;dbname=$database;charset=utf8mb4"; $pdo = new PDO($dsn, $username, $password);  // Set PDO attributes $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);  // Perform database operations $query = "SELECT * FROM users"; $stmt = $pdo->query($query);  // Fetch results while ($row = $stmt->fetch()) {    // Process each row    echo $row['username'] . '<br>'; }  // Close the database connection $pdo = null;`
+// Create a new PDO instance
+$dsn = "mysql:host=$host;dbname=$database;charset=utf8mb4";
+$pdo = new PDO($dsn, $username, $password);
+
+// Set PDO attributes
+$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
+
+// Perform database operations
+$query = "SELECT * FROM users";
+$stmt = $pdo->query($query);
+
+// Fetch results
+while ($row = $stmt->fetch()) {
+   // Process each row
+   echo $row['username'] . '<br>';
+}
+
+// Close the database connection
+$pdo = null;
+
+```
+
 
 Both approaches provide a flexible and object-oriented way to connect to a MySQL database in PHP. You can choose the approach that best fits your needs and coding style. Remember to handle errors, sanitize user input, and follow security best practices to ensure the safety of your database interactions.
