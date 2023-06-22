@@ -3,53 +3,54 @@ sticker: 1f604
 ---
 - [ ]  Unit III Big Data Analytics Life Cycle
 	- [ ] Introduction to Big Data
-	- [ ] sources of Big Data
-	- [ ] Data Analytic Lifecycle: 
-		- [ ] Introduction
-		- [ ] Phase 1: Discovery
-		- [ ] Phase 2: Data Preparation
-		- [ ] Phase 3: Model Planning
-		- [ ] Phase 4: Model Building
-		- [ ] Phase 5: Communication results
-		- [ ] Phase 6: Operationalize
+	- [x] sources of Big Data
+	- [x] Data Analytic Lifecycle: 
+		- [x] Introduction
+		- [x] Phase 1: Discovery
+		- [x] Phase 2: Data Preparation
+		- [x] Phase 3: Model Planning
+		- [x] Phase 4: Model Building
+		- [x] Phase 5: Communication results
+		- [x] Phase 6: Operationalize
 
 - [ ] Unit IV Predictive Big Data Analytics with Python
-	- [ ] Introduction
-	- [ ] Essential Python Libraries
-	- [ ] Basic examples
-	- [ ] Data Preprocessing: 
-		- [ ] Removing Duplicates
-		- [ ] Transformation of Data using function or mapping
-		- [ ] replacing values
-		- [ ] Handling Missing Data
-	- [ ] Analytics Types: 
-		- [ ] Predictive
-		- [ ] Descriptive 
-		- [ ] Prescriptive
-	- [ ] Association Rules: 
-		- [ ] Apriori Algorithm
-		- [ ] FP growth
-	- [ ] Regression: 
-		- [ ] Linear Regression
-		- [ ] Logistic Regression
-	- [ ] Classification: 
-		- [ ] Naïve Bayes
-		- [ ] Decision Trees
-	- [ ] Introduction to Scikit-learn
-		- [ ] Installations
-		- [ ] Dataset
-		- [ ] matplotlib
-		- [ ] filling missing values
-		- [ ] Regression and Classification using Scikit-learn
+	- [x] Introduction
+	- [x] Essential Python Libraries
+	- [x] Basic examples
+	- [x] Data Preprocessing: (CITRD) 
+		- [x] Removing Duplicates
+		- [x] Transformation of Data using function or mapping
+		- [x] replacing values
+		- [x] Handling Missing Data
+	- [x] Analytics Types: 
+		- [x] Predictive
+		- [x] Descriptive 
+		- [x] Prescriptive
+	- [x] Association Rules: 
+		- [x] Apriori Algorithm
+		- [x] FP growth
+	- [x] Regression: 
+		- [x] Linear Regression
+		- [x] Logistic Regression
+	- [x] Classification: 
+		- [x] Naïve Bayes
+		- [x] Decision Trees
+	- [x] Introduction to Scikit-learn
+		- [x] Installations
+		- [x] Dataset
+		- [x] matplotlib
+		- [x] filling missing values
+		- [x] Regression and Classification using Scikit-learn
 
 - [ ] Unit V Big Data Analytics and Model Evaluation
-	- [ ] Clustering Algorithms: 
-	- [ ] K-Means Hierarchical Clustering
-	- [ ] Time-series analysis
-	- [ ] Introduction to Text Analysis:
-		- [ ] Text-preprocessing
-		- [ ] Bag of words
-		- [ ] TF-IDF and topics
+	- [x] Clustering Algorithms: 
+		- [x] K-Means 
+		- [x] Hierarchical Clustering
+	- [x] Time-series analysis
+	- [x] Introduction to Text Analysis:
+		- [x] Text-preprocessing
+		- [x] Bag of words
+		- [x] TF-IDF and topics
 	- [ ] Need and Introduction to social network analysis
 	- [ ] Introduction to business analysis
 	- [ ] Model Evaluation and Selection: 
@@ -60,25 +61,25 @@ sticker: 1f604
 		- [ ] Result Interpretation
 	- [ ] Clustering and Time-series analysis using Scikit-learn
 	- [ ] sklearn.metrics
-	- [ ] Confusion matrix
-	- [ ] AUC-ROC Curves
-	- [ ] Elbow plot
+	- [x] Confusion matrix
+	- [x] AUC-ROC Curves
+	- [x] Elbow plot
 
 - [ ] Unit VI Data Visualization and Hadoop
-- [ ] Introduction to Data Visualization
-- [ ] Challenges to Big data visualization
-- [ ] Types of data visualization
-- [ ] Data Visualization Techniques
-- [ ] Visualizing Big Data
-- [ ] Tools used in Data Visualization
-- [ ] Hadoop ecosystem
-- [ ] Map Reduce
-- [ ] Pig
-- [ ] Hive
-- [ ] Analytical techniques used in Big data visualization
-- [ ] Data Visualization using Python: 
-- [ ] Line plot
-- [ ] Scatter plot
-- [ ] Histogram
-- [ ] Density plot
-- [ ] Box- plot
+- [x] Introduction to Data Visualization
+- [x] Challenges to Big data visualization
+- [x] Types of data visualization
+- [x] Data Visualization Techniques
+- [x] Visualizing Big Data
+- [x] Tools used in Data Visualization
+- [x] Hadoop ecosystem
+- [x] Map Reduce
+- [x] Pig
+- [x] Hive
+- [x] Analytical techniques used in Big data visualization
+- [x] Data Visualization using Python: 
+- [x] Line plot
+- [x] Scatter plot
+- [x] Histogram
+- [x] Density plot
+- [x] Box- plot
