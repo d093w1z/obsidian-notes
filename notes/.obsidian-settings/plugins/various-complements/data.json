@@ -1,0 +1,259 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "performance": {
+      "performance": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680721161598
+        }
+      }
+    },
+    "Measure": {
+      "Measure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680720873593
+        }
+      }
+    },
+    "knowledge-intensive": {
+      "knowledge-intensive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680720883013
+        }
+      }
+    },
+    "Agent": {
+      "Agent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680720961324
+        }
+      }
+    },
+    "action": {
+      "action": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721068078
+        }
+      }
+    },
+    "actions": {
+      "actions": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680722360483
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721092988
+        }
+      }
+    },
+    "model": {
+      "model": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680722364684
+        }
+      }
+    },
+    "measure": {
+      "measure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721162860
+        }
+      }
+    },
+    "energy": {
+      "energy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721166528
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721167893
+        }
+      }
+    },
+    "actuators": {
+      "actuators": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721174602
+        }
+      }
+    },
+    "sensors": {
+      "sensors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721178943
+        }
+      }
+    },
+    "agents": {
+      "agents": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680721850689
+        }
+      }
+    },
+    "Search": {
+      "Search": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722287373
+        }
+      }
+    },
+    "space": {
+      "space": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1680722296782
+        }
+      }
+    },
+    "state": {
+      "state": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722303033
+        }
+      }
+    },
+    "thermostat": {
+      "thermostat": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680722340624
+        }
+      }
+    },
+    "solutions": {
+      "solutions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722383281
+        }
+      }
+    },
+    "benefits": {
+      "benefits": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722648121
+        }
+      }
+    },
+    "search": {
+      "search": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1680722711608
+        }
+      }
+    },
+    "Optimality": {
+      "Optimality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722830025
+        }
+      }
+    },
+    "Complexity": {
+      "Complexity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680722846098
+        }
+      }
+    },
+    "applications": {
+      "applications": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680725090772
+        }
+      }
+    }
+  }
+}
