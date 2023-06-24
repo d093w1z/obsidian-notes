@@ -1,3 +1,7 @@
+---
+sticker: 2601-fe0f
+tag: syllabus, endsem
+---
 Unit III Virtualization in Cloud Computing
 
 - [ ] Introduction: Definition of Virtualization
