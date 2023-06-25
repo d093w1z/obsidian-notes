@@ -36,7 +36,7 @@ sticker: emoji//1f916
  - [ ] [[Propositional vs First-Order Inference]]
  - [ ] [[Unification and First-Order Inference]]
  - [ ] [[Forward Chaining]]
- - [ ] [[Backward Chaining]]
+ - [x] [[Backward Chaining]]
  - [x] [[Resolution]]
  - [ ] [[Knowledge Representation]]
  - [x] [[Ontological Engineering]]
