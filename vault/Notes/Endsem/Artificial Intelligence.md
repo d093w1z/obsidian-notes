@@ -47,11 +47,11 @@ sticker: emoji//1f916
  - [ ] [[Reasoning with Default Information]]
 
 ## Unit VI Planning
- - [ ] [[Automated Planning]]
+ - [x] [[Automated Planning]]
  - [x] [[Classical Planning]]
- - [ ] [[Algorithms for Classical Planning]]
- - [ ] [[Heuristics for Planning]]
- - [ ] [[Hierarchical Planning]]
+ - [x] [[Algorithms for Classical Planning]]
+ - [x] [[Heuristics for Planning]]
+ - [x] [[Hierarchical Planning]]
  - [ ] [[Planning and Acting in Nondeterministic Domains]]
  - [ ] [[Time]]
  - [ ] [[Schedules]]
