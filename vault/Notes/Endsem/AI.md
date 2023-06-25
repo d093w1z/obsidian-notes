@@ -37,7 +37,7 @@ sticker: emoji//1f916
  - [ ] [[Unification and First-Order Inference]]
  - [x] [[Forward Chaining]]
  - [x] [[Backward Chaining]]
- - [ ] [[Resolution]]
+ - [x] [[Resolution]]
  - [ ] [[Knowledge Representation]]
  - [x] [[Ontological Engineering]]
  - [ ] [[Categories and Objects]]
