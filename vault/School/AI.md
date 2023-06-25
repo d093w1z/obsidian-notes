@@ -112,7 +112,22 @@ forward chaining
 backward chaining
 resolution(2 pages) solving
 monotonic and nonmonotonic reasoning 
-ontology
+ontological engineering 
+situation calculus
+	terms
+	diff problems
+	describe action in situation calculus 
+time event calculus 
+theory of  mental events 
+organization of categories - reasoning systems 
 
 # unit 6
-
+planning languages
+strip
+goal stack
+partial order 
+block world 
+forward & backward  state space search
+ethics of ai
+risks
+information planning system
