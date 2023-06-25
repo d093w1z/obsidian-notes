@@ -25,7 +25,7 @@ sticker: emoji//1f916
  - [x] [[Propositional Theorem Proving]]
  - [ ] [[Effective Propositional Model Checking]]
  - [x] [[Agents Based on Propositional Logic]]
- - [x] [[First-Order Logic]]
+ - [ ] [[First-Order Logic]]
  - [ ] [[Representation Revisited]]
  - [ ] [[Syntax and Semantics of First-Order Logic]]
  - [ ] [[Using First-Order Logic]]
