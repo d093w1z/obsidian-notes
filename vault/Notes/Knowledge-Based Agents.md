@@ -1,4 +1,10 @@
-### Knowledge-Based agents
+26-06-2023 @ 00:00
+
+Status: #idea
+
+Tags:
+
+# Knowledge-Based Agents
 knowledge and reasoning 
 capabilities:
 	maintain internal state
@@ -30,3 +36,7 @@ two components:
          │                       │
          └───────────────────────┘
 ```
+
+
+---
+# References
