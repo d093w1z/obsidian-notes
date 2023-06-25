@@ -40,15 +40,13 @@
   "expandedSpaces": [
     "/",
     null,
-    "Endsem",
-    "notes",
     null
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
     "Endsem",
-    "notes"
+    "vault"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -73,7 +71,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1687626905594,
+  "spacesAutoBackupLast": 1687687368299,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc35daa2e496743c",
+        "id": "d6b2013cd133df6b",
         "type": "tabs",
         "children": [
           {
-            "id": "6713f79934f92c11",
+            "id": "7adb2e68d147b183",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Endsem//"
+              }
             }
           }
         ]
@@ -84,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e69281ae498722b0",
@@ -157,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6713f79934f92c11",
-  "lastOpenFiles": []
+  "active": "ab529fd438c816b7",
+  "lastOpenFiles": [
+    "AI.md",
+    "Pasted image 20230625150747.png",
+    "knowledge based agents.md",
+    "MTCS.md"
+  ]
 }
