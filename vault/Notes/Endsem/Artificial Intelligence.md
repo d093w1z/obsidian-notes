@@ -33,7 +33,7 @@ sticker: emoji//1f916
 
 ## Unit V Reasoning
  - [x] [[Inference in First-Order Logic]]
- - [ ] [[Propositional vs First-Order Inference]]
+ - [x] [[Propositional vs First-Order Inference]]
  - [x] [[Unification and First-Order Inference]]
  - [x] [[Forward Chaining]]
  - [x] [[Backward Chaining]]
