@@ -9,7 +9,7 @@ Tags:
 ## Propositions 
 
 1. no pit at (1,1)
-2. 
+   $R_2 : B_{1,2} \iff (P_{1,2} \conj P_{2,1})$   
 
 
 
