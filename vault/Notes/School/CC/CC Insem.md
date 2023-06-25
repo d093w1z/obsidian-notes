@@ -48,9 +48,9 @@ The cloud architecture is divided into 2 parts i.e.
 1.  Frontend
 2.  Backend
 
-![](20230407174219.png)
+![[20230407174219.png]]
 
-Architecture of cloud computing is the combination of both [SOA (Service Oriented Architecture)](https://www.geeksforgeeks.org/service-oriented-architecture/) and EDA (Event Driven Architecture). Client infrastructure, application, service, runtime cloud, storage, infrastructure, management and security all these are the components of cloud computing architecture.
+Architecture of cloud computing is the combination of both [[Service Oriented Architecture)](https://www.geeksforgeeks.org/service-oriented-architecture/|SOA (Service Oriented Architecture)]] and EDA (Event Driven Architecture). Client infrastructure, application, service, runtime cloud, storage, infrastructure, management and security all these are the components of cloud computing architecture.
 
 **1. Frontend :**  
 Frontend of the cloud architecture refers to the client side of cloud computing system. Means it contains all the user interfaces and applications which are used by the client to access the cloud computing services/resources. For example, use of a web browser to access the cloud platform.
@@ -82,7 +82,7 @@ Backend refers to the cloud itself which is used by the service provider. It con
 11.  **Analytics**– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
 
 ## Q3. Describe the Trends in Cloud Computing?
-![](20230407160011.png)
+![[20230407160011.png]]
 As more businesses rely on on-demand IT for anything from accounting software to full-fledged IaaS, PaaS, and SaaS solutions, the cloud continues to be a vital resource across multiple industries. Let’s have a look at five of the [cloud computing trends](https://www.veritis.com/blog/the-6-cloud-trends-which-shall-dominate-2022/) you can expect to witness in the future of cloud computing.
 
 **1) The Growth of Serverless Computing**
@@ -150,7 +150,7 @@ In 2022, edge computing will be crucial as more businesses attempt to boost effi
 
 Kubernetes is a technology that offers a tamper-proof digital ledger that can record data without depending on a centralized authority. Blockchain technology is a game-changer but has scaling issues, particularly massive data management and storage.
 
-A blockchain environment can scale quickly with the help of [Kubernetes (K8s)](https://www.veritis.com/services/kubernetes/), an open-source technology for automating deployments and scaling programs. With several containers running for a single essential service, K8s also offer high availability.
+A blockchain environment can scale quickly with the help of [[K8s)](https://www.veritis.com/services/kubernetes/|Kubernetes (K8s)]], an open-source technology for automating deployments and scaling programs. With several containers running for a single essential service, K8s also offer high availability.
 
 Enterprises will carry on pushing the boundaries of blockchain and K8s in 2022 since they work so well together.
 
@@ -224,9 +224,9 @@ The cloud deployment model identifies the specific type of cloud environment bas
 	-   **Limited Scalability:** Community cloud is relatively less scalable as many organizations share the same resources according to their collaborative interests. 
 	-   **Rigid in customization:** As the data and resources are shared among different organizations according to their mutual interests if an organization wants some changes according to their needs they cannot do so because it will have an impact on other organizations.
 
-![](20230407094158.png) 
+![[20230407094158.png]] 
 
-![](20230407094339.png)
+![[20230407094339.png]]
 
 ## Q7. Describe Cloud Computing Reference Model with suitable diagram? 
 
@@ -234,7 +234,7 @@ The cloud deployment model identifies the specific type of cloud environment bas
 
 Seven step migration model:
 
-![](20230407084543.png)
+![[20230407084543.png]]
 1.  ASSESSMENT
 Migration starts with an assessment of the issues relating to migration, at the application, code, design, and architecture levels. assessments are also required for tools being used, functionality, test cases, and configuration of the application. The proof of concepts for migration and the corresponding pricing details will help to assess these issues properly.
  2.  ISOLATE
@@ -267,7 +267,7 @@ Cloud management refers to the process of managing and optimizing the usage, per
 6.  Disaster Recovery and Business Continuity: Cloud management also involves disaster recovery and business continuity planning, which involves setting up backup and recovery mechanisms to ensure that data and applications can be restored in the event of a disaster or outage.
 
 ## Q11. How the HDFS Architecture works? Explain it with suitable diagram and features?
-![](20230407112036.png)
+![[20230407112036.png]]
 
 HDFS/ Hadoop file system is a distributed file system that organizes files and stores their data on a distributed computing software. Its Open source framework lic under Apache v2. Processes large datasets in realtime app. It is a block structured file system where each file is divided in predetermined size blocks and these are stored at cluster of one or many machines. Hadoop is used in retail, healthcare, finance, security,etc. Mapreduce software provides an easy framework for application writing when it comes to handling massive amounts of structured and unstructured data. This is mainly achieved by its facilitation of parallel processing of data.
 **Architecture:** 
@@ -369,4 +369,4 @@ Direct Attached Storage (DAS) is a type of storage architecture where storage de
 2.  Limited Redundancy: DAS provides limited redundancy because it is directly connected to a single server or workstation. If the server or workstation fails, the data stored on the DAS device may be lost or inaccessible.
 3.  Limited Accessibility: DAS is limited in terms of accessibility because it is directly connected to a single server or workstation. This means that it may not be the best option for organizations that require remote access or multi-user access.
 4.  Limited Backup and Recovery: DAS provides limited backup and recovery options because it is directly connected to a single server or workstation. This means that it may not be the best option for organizations that require frequent backups or need to recover data quickly in case of a disaster.
-![](storage-direct_attached_storage_mobile.png)
+![[storage-direct_attached_storage_mobile.png]]

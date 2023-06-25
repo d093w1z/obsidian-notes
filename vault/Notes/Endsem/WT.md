@@ -267,7 +267,7 @@ By leveraging XML's structure, declaration syntax, and namespace support, you ca
 
 ### Explain the Struts architecture with a neat diagram and also explain the benefits of Struts.
 
-![Struts Architecture Diagram](strut_architecture.jpg)
+![[strut_architecture.jpg|Struts Architecture Diagram]]
 
 
 The Struts framework follows the Model-View-Controller (MVC) architectural pattern and provides a structured approach to application development. The key components of the Struts architecture are:
