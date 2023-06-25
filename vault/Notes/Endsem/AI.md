@@ -22,7 +22,7 @@ sticker: emoji//1f916
  - [x] [[The Wumpus World]]
  - [x] [[Logic]]
  - [x] [[Propositional Logic: A Very Simple Logic]]
- - [ ] [[Propositional Theorem Proving]]
+ - [x] [[Propositional Theorem Proving]]
  - [ ] [[Effective Propositional Model Checking]]
  - [x] [[Agents Based on Propositional Logic]]
  - [x] [[First-Order Logic]]
