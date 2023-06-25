@@ -16,8 +16,10 @@ statement = subject + predicate
 uses shorthand notation
 
 ## Quantifier 
-refers s to quantities such as some, every, all etc
+refers s to quantities such as some, every, all etc.
 
-
+### Types of quantifires 
+- universal  $\forall$
+- existential  $\$
 ---
 # References
