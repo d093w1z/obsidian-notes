@@ -5,7 +5,7 @@ Status: #idea
 Tags:
 
 # Constraint Propagation -  Inference in CSPs
-Types of inference 
+Types of inference consistency
 arc 
 node
 path
