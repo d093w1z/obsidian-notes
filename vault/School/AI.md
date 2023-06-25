@@ -9,22 +9,22 @@ tag: syllabus, endsem
  - [x] Heuristic Alpha–Beta Tree Search
  - [x] Monte Carlo Tree Search 
  - [x] Stochastic Games
- - [ ] Partially Observable Games
- - [ ] Limitations of Game Search Algorithms 
+ - [x] Partially Observable Games
+ - [x] Limitations of Game Search Algorithms 
  - [x] Constraint Satisfaction Problems (CSP)
- - [ ] Constraint Propagation: Inference in CSPs
- - [ ] Backtracking Search for CSPs.
+ - [x] Constraint Propagation: Inference in CSPs
+ - [x] Backtracking Search for CSPs.
 
 ## Unit IV Knowledge
- - [ ] Logical Agents
- - [ ] Knowledge-Based Agents
+ - [x] Logical Agents
+ - [x] Knowledge-Based Agents
  - [ ] The Wumpus World
- - [ ] Logic
+ - [x] Logic
  - [ ] Propositional Logic: A Very Simple Logic
  - [ ] Propositional Theorem Proving
  - [ ] Effective Propositional Model Checking
  - [ ] Agents Based on Propositional Logic
- - [ ] First-Order Logic
+ - [x] First-Order Logic
  - [ ] Representation Revisited
  - [ ] Syntax and Semantics of First-Order Logic
  - [ ] Using First-Order Logic
