@@ -1,5 +1,6 @@
 ---
 tag: syllabus, endsem
+sticker: emoji//1f916
 ---
 # Syllabus
 
@@ -19,8 +20,8 @@ tag: syllabus, endsem
  - [x] [[Logical Agents]]
  - [x] [[Knowledge-Based Agents]]
  - [x] [[The Wumpus World]]
- - [ ] [[Logic]]
- - [ ] [[Propositional Logic: A Very Simple Logic]]
+ - [x] [[Logic]]
+ - [x] [[Propositional Logic: A Very Simple Logic]]
  - [ ] [[Propositional Theorem Proving]]
  - [ ] [[Effective Propositional Model Checking]]
  - [x] [[Agents Based on Propositional Logic]]
