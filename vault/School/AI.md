@@ -76,7 +76,7 @@ gametheory
 minmax
 alpha beta
 mcst
-
+test from pc
 csp
 nqueens
 constrain propogation
