@@ -48,7 +48,7 @@ sticker: emoji//1f916
 
 ## Unit VI Planning
  - [ ] [[Automated Planning]]
- - [ ] [[Classical Planning]]
+ - [x] [[Classical Planning]]
  - [ ] [[Algorithms for Classical Planning]]
  - [ ] [[Heuristics for Planning]]
  - [ ] [[Hierarchical Planning]]
