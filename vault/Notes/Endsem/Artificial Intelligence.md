@@ -26,9 +26,9 @@ sticker: emoji//1f916
  - [x] [[Effective Propositional Model Checking]]
  - [x] [[Agents Based on Propositional Logic]]
  - [x] [[First-Order Logic]]
- - [ ] [[Representation Revisited]]
+ - [x] [[Representation Revisited]]
  - [x] [[Syntax and Semantics of First-Order Logic]]
- - [ ] [[Using First-Order Logic]]
+ - [x] [[Using First-Order Logic]]
  - [ ] [[Knowledge Engineering in First-Order Logic.]]
 
 ## Unit V Reasoning
@@ -55,11 +55,11 @@ sticker: emoji//1f916
  - [ ] [[Planning and Acting in Nondeterministic Domains]]
  - [x] [[Time, Schedules and Resources ]]
  - [ ] [[Analysis of Planning Approaches]] ⭐
- - [ ] [Limits of AI](Limits%20of%20AI) 
- - [ ] [[Ethics of AI]]
- - [ ] [[Future of AI]]
- - [ ] [[AI Components]]
- - [ ] [[AI Architectures.]]
+ - [x] [Limits of AI](Limits%20of%20AI) 
+ - [x] [[Ethics of AI]]
+ - [x] [[Future of AI]]
+ - [x] [[AI Components]]
+ - [x] [[AI Architectures.]]
 
 
 algorithms 
