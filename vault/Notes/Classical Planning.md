@@ -16,7 +16,7 @@ Agent performs three tasks: (PAL)
 A language known as **PDDL(Planning Domain Definition Language)** which is used to represent all actions into one action schema
 
 examples:
-[[Block world problem]]
+[Block world problem](Block%20world%20problem.md)
 
 ---
 # References
