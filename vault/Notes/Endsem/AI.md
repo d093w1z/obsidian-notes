@@ -56,19 +56,13 @@ sticker: emoji//1f916
  - [ ] [[Time]]
  - [ ] [[Schedules]]
  - [ ] [[and Resources]]
- - [ ] [[Analysis of Planning Approaches]]
+ - [ ] [[Analysis of Planning Approaches]] ⭐
  - [ ] [[Limits of AI]]
  - [ ] [[Ethics of AI]]
  - [ ] [[Future of AI]]
  - [ ] [[AI Components]]
  - [ ] [[AI Architectures.]]
 
-
-
-
-	!![[MTCS]]
-
-!![[knowledge based agents]]
 
 algorithms 
 # unit3
