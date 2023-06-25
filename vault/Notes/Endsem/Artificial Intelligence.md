@@ -32,10 +32,10 @@ sticker: emoji//1f916
  - [ ] [[Knowledge Engineering in First-Order Logic.]]
 
 ## Unit V Reasoning
- - [ ] [[Inference in First-Order Logic]]
+ - [x] [[Inference in First-Order Logic]]
  - [ ] [[Propositional vs First-Order Inference]]
- - [ ] [[Unification and First-Order Inference]]
- - [ ] [[Forward Chaining]]
+ - [x] [[Unification and First-Order Inference]]
+ - [x] [[Forward Chaining]]
  - [x] [[Backward Chaining]]
  - [x] [[Resolution]]
  - [ ] [[Knowledge Representation]]
