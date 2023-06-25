@@ -23,7 +23,7 @@ sticker: emoji//1f916
  - [x] [[Logic]]
  - [x] [[Propositional Logic: A Very Simple Logic]]
  - [x] [[Propositional Theorem Proving]]
- - [ ] [[Effective Propositional Model Checking]]
+ - [x] [[Effective Propositional Model Checking]]
  - [x] [[Agents Based on Propositional Logic]]
  - [ ] [[First-Order Logic]]
  - [ ] [[Representation Revisited]]
