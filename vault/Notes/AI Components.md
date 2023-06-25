@@ -1,3 +1,6 @@
+---
+tag: ai
+---
 - Data: The foundation of AI, providing the input for learning and decision-making.
 - Algorithms: Mathematical models and techniques used to process and analyze data.
 - Computing power: High-performance hardware that enables AI computations.

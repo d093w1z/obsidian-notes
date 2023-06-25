@@ -1,3 +1,6 @@
+---
+tag: ai
+---
 Organizing and storing information in AI.
 - Goal: Enable machines to understand, manipulate, and utilize knowledge.
 - Approaches: Symbolic, semantic networks, frames, ontologies, logic-based, probabilistic models.

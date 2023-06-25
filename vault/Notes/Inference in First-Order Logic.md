@@ -1,3 +1,6 @@
+---
+tag: ai
+---
 - Inference involves drawing logical conclusions from a set of premises using the rules of deduction.
 - First-Order Logic (FOL) extends propositional logic by introducing variables, quantifiers, and predicates.
 - In FOL, inference aims to determine the truth or falsity of statements involving variables and quantified expressions.
