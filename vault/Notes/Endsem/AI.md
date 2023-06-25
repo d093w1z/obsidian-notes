@@ -16,9 +16,9 @@ tag: syllabus, endsem
  - [x] [[Backtracking Search for CSPs.]]
 
 ## Unit IV Knowledge
- - [ ] [[Logical Agents]]
+ - [x] [[Logical Agents]]
  - [x] [[Knowledge-Based Agents]]
- - [ ] [[The Wumpus World]]
+ - [x] [[The Wumpus World]]
  - [ ] [[Logic]]
  - [ ] [[Propositional Logic: A Very Simple Logic]]
  - [ ] [[Propositional Theorem Proving]]
