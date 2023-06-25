@@ -89,7 +89,7 @@ types and all
 propositional logic 
 issues
 adv disadv
-theorem prooving
+theorem proving
 syntax 
 semantics 
 reasoning pattern
@@ -105,9 +105,9 @@ knowledge engineering
 
 
 # unit 5
-fol inference 
+FOL inference 
 unification 
-reasoning pattern fol
+reasoning pattern FOL
 forward chaining 
 backward chaining
 resolution(2 pages) solving
@@ -131,3 +131,12 @@ forward & backward  state space search
 ethics of ai
 risks
 information planning system
+
+Analysis of Planning Approaches
+temporal planning 
+time schedule resources
+ai architecture
+components 
+ethics 
+limitations 
+risks 
