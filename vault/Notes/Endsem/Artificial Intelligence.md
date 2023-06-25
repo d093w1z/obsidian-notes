@@ -53,11 +53,9 @@ sticker: emoji//1f916
  - [x] [[Heuristics for Planning]]
  - [x] [[Hierarchical Planning]]
  - [ ] [[Planning and Acting in Nondeterministic Domains]]
- - [ ] [[Time]]
- - [ ] [[Schedules]]
- - [ ] [[Resources]]
+ - [x] [[Time, Schedules and Resources ]]
  - [ ] [[Analysis of Planning Approaches]] ⭐
- - [ ] [[Limits of AI]]
+ - [ ] [Limits of AI](Limits%20of%20AI) 
  - [ ] [[Ethics of AI]]
  - [ ] [[Future of AI]]
  - [ ] [[AI Components]]
