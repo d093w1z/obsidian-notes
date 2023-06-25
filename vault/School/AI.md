@@ -68,3 +68,37 @@ tag: syllabus, endsem
 	!![[MTCS]]
 
 !![[knowledge based agents]]
+
+algorithms 
+# unit3
+
+gametheory
+minmax
+alpha beta
+mcst
+
+csp
+nqueens
+constrain propogation
+higer order and directional consistencies
+backtracking lookahead strategies
+
+# unit 4
+knowledge representation 
+types and all
+propositional logic 
+issues
+adv disadv
+syntax 
+semantics 
+reasoning pattern
+forward chaining 
+backward chaining
+local search algorithms for inferencing
+wumpus world 
+
+# unit 5
+
+
+# unit 6
+
