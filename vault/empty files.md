@@ -1,2 +1,1 @@
-- [[Notes/Time.md]]
-- [[Notes/Algorithms for Classical Planning.md]]
+- [[Notes/Heuristic Alpha–Beta Tree Search.md]]

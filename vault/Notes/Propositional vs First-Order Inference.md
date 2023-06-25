@@ -1,3 +1,6 @@
+---
+tag: ai
+---
 - Propositional inference deals with propositions that are true or false but lacks explicit representation of objects and relationships.
 - First-Order Inference operates on first-order logic, which incorporates variables, quantifiers, and predicates for more expressive reasoning.
 - Propositional inference focuses on truth-preserving operations like conjunction, disjunction, and implication.

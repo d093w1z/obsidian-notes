@@ -1,3 +1,6 @@
+---
+tag: ai
+---
 Categories:
 
 1. Classes: Represent general concepts or categories within a domain.

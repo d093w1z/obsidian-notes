@@ -8,10 +8,10 @@ Status: #idea
 Tags:
 
 # Monte Carlo Tree Search
-## keypoints
+## Keypoints
 search technique
 probablistic and heuristic search technique
-tree search + RL = [[MTCS]] 
+tree search + RL = MTCS
 exploration-exploitation tradeoff
 
 
