@@ -8,8 +8,10 @@ Status: #idea
 Tags:
 
 # Forward Chaining
-Inference engine starts with data and makes its way towards the answer
-oposite of [[Backward Chaining]]
+Inference engine starts with data and makes its way towards the answer 
+data-driven
+opposite of [[Backward Chaining]]
+
 
 ---
 # References---

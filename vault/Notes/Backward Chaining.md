@@ -9,6 +9,9 @@ Tags:
 
 # Backward Chaining
 ![[Pasted image 20230626002259.png]]
+Inference engine starts with answer/goal and makes its way towards the data
+goal-driven
+opposite of [[Forward Chaining]]
 
 ---
 # References
