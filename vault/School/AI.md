@@ -16,15 +16,15 @@ tag: syllabus, endsem
  - [x] Backtracking Search for CSPs.
 
 ## Unit IV Knowledge
- - [x] Logical Agents
+ - [ ] Logical Agents
  - [x] Knowledge-Based Agents
  - [ ] The Wumpus World
- - [x] Logic
+ - [ ] Logic
  - [ ] Propositional Logic: A Very Simple Logic
  - [ ] Propositional Theorem Proving
  - [ ] Effective Propositional Model Checking
  - [ ] Agents Based on Propositional Logic
- - [x] First-Order Logic
+ - [ ] First-Order Logic
  - [ ] Representation Revisited
  - [ ] Syntax and Semantics of First-Order Logic
  - [ ] Using First-Order Logic
@@ -89,6 +89,7 @@ types and all
 propositional logic 
 issues
 adv disadv
+theorem prooving
 syntax 
 semantics 
 reasoning pattern
@@ -96,9 +97,22 @@ forward chaining
 backward chaining
 local search algorithms for inferencing
 wumpus world 
+FOL
+adv disadv
+syntax
+wumpus in FOL
+knowledge engineering 
+
 
 # unit 5
-
+fol inference 
+unification 
+reasoning pattern fol
+forward chaining 
+backward chaining
+resolution(2 pages) solving
+monotonic and nonmonotonic reasoning 
+ontology
 
 # unit 6
 
