@@ -55,7 +55,7 @@ sticker: emoji//1f916
  - [ ] [[Planning and Acting in Nondeterministic Domains]]
  - [x] [[Time, Schedules and Resources ]]
  - [ ] [[Analysis of Planning Approaches]] ⭐
- - [x] [Limits of AI](Limits%20of%20AI) 
+ - [x] [Limits of AI](Limits%20of%20AI.md) 
  - [x] [[Ethics of AI]]
  - [x] [[Future of AI]]
  - [x] [[AI Components]]
