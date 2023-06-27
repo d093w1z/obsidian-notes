@@ -1,5 +1,3 @@
-{{date:DD-MM-YYYY}}
-
 Status: #personal
 
 Tags:
@@ -7,5 +5,18 @@ Tags:
 # {{Title}}
 
 
+
 ---
-# References
+# Log
+
+
+
+---
+# Goals
+
+
+
+---
+# To-do
+
+
