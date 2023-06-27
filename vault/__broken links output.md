@@ -29,6 +29,3 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[K8s)](https://www.veritis.com/services/kubernetes/]] in [[Notes/School/CC/CC Insem]]
 - [[2.7 Pearson coefficient]] in [[Notes/School/DSBDA/UNIT 2 - Statistical Inference]]
 - [[2.8 sample hypothesis testing]] in [[Notes/School/DSBDA/UNIT 2 - Statistical Inference]]
-- [[Notes/Time]] in [[empty files]]
-- [[Notes/Algorithms for Classical Planning]] in [[empty files]]
-- [[MTCS]] in [[Notes/Monte Carlo Tree Search]]

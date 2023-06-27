@@ -1,4 +1,4 @@
-- [[Templates/Templates.md]]
+ [[Templates/Templates.md]]
 - [[Reference/research/research.md]]
 - [[Reference/Reference.md]]
 - [[Notes/Notes.md]]
