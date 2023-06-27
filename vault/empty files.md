@@ -1,1 +1,5 @@
+- [[Templates/Templates.md]]
+- [[Reference/research/research.md]]
+- [[Reference/Reference.md]]
+- [[Notes/Notes.md]]
 - [[Notes/Heuristic Alpha–Beta Tree Search.md]]
