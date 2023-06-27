@@ -1,11 +1,11 @@
 ---
-tag: todo, ai
+tag: ""
 ---
 25-06-2023 @ 20:41
 
 Status: #idea
 
-Tags:
+Tags:  #ai #todo
 
 # The Wumpus World
 
