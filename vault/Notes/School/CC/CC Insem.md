@@ -50,7 +50,7 @@ The cloud architecture is divided into 2 parts i.e.
 
 ![[20230407174219.png]]
 
-Architecture of cloud computing is the combination of both [[Service Oriented Architecture)](https://www.geeksforgeeks.org/service-oriented-architecture/|SOA (Service Oriented Architecture)]] and EDA (Event Driven Architecture). Client infrastructure, application, service, runtime cloud, storage, infrastructure, management and security all these are the components of cloud computing architecture.
+Architecture of cloud computing is the combination of both [Service Oriented Architecture](https://www.geeksforgeeks.org/service-oriented-architecture/|SOA (Service Oriented Architecture) and EDA (Event Driven Architecture). Client infrastructure, application, service, runtime cloud, storage, infrastructure, management and security all these are the components of cloud computing architecture.
 
 **1. Frontend :**  
 Frontend of the cloud architecture refers to the client side of cloud computing system. Means it contains all the user interfaces and applications which are used by the client to access the cloud computing services/resources. For example, use of a web browser to access the cloud platform.
@@ -77,9 +77,9 @@ Backend refers to the cloud itself which is used by the service provider. It con
     Security in backend refers to implementation of different security mechanisms in the backend for secure cloud resources, systems, files, and infrastructure to end-users.
 8.  **Internet –**  
     Internet connection acts as the medium or a bridge between frontend and backend and establishes the interaction and communication between frontend and backend.
-9.  **Database**– Database in backend refers to provide database for storing structured data, such as SQL and NOSQL databases. Example of Databses services include Amazon RDS, Microsoft Azure SQL database and Google CLoud SQL.  
+9.  **Database**– Database in backend refers to provide database for storing structured data, such as SQL and NOSQL databases. Example of Databases services include Amazon RDS, Microsoft Azure SQL database and Google Cloud SQL.  
 10.  **Networking**– Networking in backend services that provide networking infrastructure for application in the cloud, such as load balancing, DNS and virtual private networks. 
-11.  **Analytics**– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
+11.  **Analytics**– Analytics in backend service that provides analytics capabilities for data in the cloud, such as warehousing, bussness intelligence and machine learning.
 
 ## Q3. Describe the Trends in Cloud Computing?
 ![[20230407160011.png]]
@@ -150,7 +150,7 @@ In 2022, edge computing will be crucial as more businesses attempt to boost effi
 
 Kubernetes is a technology that offers a tamper-proof digital ledger that can record data without depending on a centralized authority. Blockchain technology is a game-changer but has scaling issues, particularly massive data management and storage.
 
-A blockchain environment can scale quickly with the help of [[K8s)](https://www.veritis.com/services/kubernetes/|Kubernetes (K8s)]], an open-source technology for automating deployments and scaling programs. With several containers running for a single essential service, K8s also offer high availability.
+A blockchain environment can scale quickly with the help of [Kubernetes (K8s)](https://www.veritis.com/services/kubernetes/), an open-source technology for automating deployments and scaling programs. With several containers running for a single essential service, K8s also offer high availability.
 
 Enterprises will carry on pushing the boundaries of blockchain and K8s in 2022 since they work so well together.
 
