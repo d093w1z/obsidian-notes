@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: #syllabus #endsem #cloud
+Tags: #syllabus  #cloud
 
 # Introduction - Definition of Virtualization
 

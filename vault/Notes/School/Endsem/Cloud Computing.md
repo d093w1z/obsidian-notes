@@ -1,6 +1,6 @@
 ---
 sticker: 2601-fe0f
-tag: syllabus, endsem
+tag: syllabus
 ---
 # Unit III Virtualization in Cloud Computing
 - [ ] [[Introduction - Definition of Virtualization]]

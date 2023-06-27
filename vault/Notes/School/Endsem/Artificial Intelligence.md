@@ -1,5 +1,5 @@
 ---
-tag: syllabus, endsem
+tag: syllabus
 sticker: emoji//1f916
 ---
 # Syllabus

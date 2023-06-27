@@ -1,6 +1,6 @@
 ---
 sticker: 1f5a5-fe0f
-tag: syllabus, endsem
+tag: syllabus
 ---
 **Unit III Java Servlets and XML**
 - [x] Servlet:

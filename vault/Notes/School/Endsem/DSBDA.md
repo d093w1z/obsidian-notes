@@ -1,6 +1,6 @@
 ---
 sticker: 1f4ca
-tag: syllabus, endsem
+tag: syllabus
 ---
 - [ ]  Unit III Big Data Analytics Life Cycle
 	- [ ] Introduction to Big Data
