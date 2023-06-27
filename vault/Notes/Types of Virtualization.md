@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: #cloud 
 
 # Types of Virtualization
 
