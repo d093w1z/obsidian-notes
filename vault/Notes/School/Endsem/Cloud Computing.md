@@ -4,11 +4,11 @@ tag: syllabus
 ---
 # Unit III Virtualization in Cloud Computing
 - [ ] [[Introduction - Definition of Virtualization]]
-- [ ] [[Adopting Virtualization]]
+- [ ] [[Adopting Virtualization]] (Not sure)
 - [ ] [[Types of Virtualization]]
 - [ ] [[Virtualization Architecture and Software]]
 - [ ] [[Virtual Clustering]]
-- [ ] [[Virtualization Application]]
+- [ ] [[Virtualization Application]] (Not sure)
 - [ ] [[Pitfalls of Virtualization Grid]]
 - [ ] [[Cloud and Virtualization - Virtualization in Grid]]
 - [ ] [[Virtualization in Cloud]]
