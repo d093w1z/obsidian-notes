@@ -30,9 +30,9 @@ Secure cloud software testing is an important aspect of ensuring the security an
     
 6. API Testing: If the cloud software exposes APIs, thoroughly test them for potential security vulnerabilities, such as injection attacks, improper access controls, or data exposure.
     
-7. Security Incident Response Testing: Include testing scenarios that simulate security incidents and assess the software's ability to detect, respond, and recover from such incidents. Test incident response plans and evaluate coordination between development, operations, and security teams.
+7. **Security Incident Response Testing**: Include testing scenarios that simulate security incidents and assess the software's ability to detect, respond, and recover from such incidents. Test incident response plans and evaluate coordination between development, operations, and security teams.
     
-8. Regular Testing and Retesting: Security testing should be an ongoing process throughout the software development lifecycle. Regularly retest the software as new features are added, configurations change, or updates are applied.
+8. **Regular Testing and Retesting**: Security testing should be an ongoing process throughout the software development lifecycle. Regularly retest the software as new features are added, configurations change, or updates are applied.
     
 9. Documentation and Reporting: Document the testing process, methodologies, findings, and remediation recommendations. Provide clear and concise reports to stakeholders, including developers, operations teams, and management, to facilitate effective communication and remediation of identified security issues.
     
