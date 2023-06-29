@@ -15,6 +15,14 @@ There are four forms of Cloud Testing performed:
 3. **Testing across the clouds:** In this, the testing is carried out based on the specifications on the different types of clouds-like public, private and hybrid clouds.
 4. **SaaS testing in the cloud**: In this, functional and non-functional testing takes place based on requirements.
 
+## Types:
+
+1. functional 
+2. non-functional 
+3. ability 
+
+## Key Considerations 
+
 Secure cloud software testing is an important aspect of ensuring the security and reliability of cloud-based applications. It involves evaluating the software for vulnerabilities, weaknesses, and compliance with security requirements. Here are some key considerations and best practices for conducting secure cloud software testing:
 
 1. **Threat Modeling**: Begin by performing a thorough threat modeling exercise to identify potential security threats and risks specific to the cloud environment. This helps in prioritizing testing efforts and focusing on critical areas of the software.
