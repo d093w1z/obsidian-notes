@@ -46,7 +46,7 @@ tag: syllabus
 - [ ] [[Cloud Security Services - Confidentiality, Integrity and Availability]]
 - [ ] [[Security Authorization Challenges in the Cloud]]
 - [ ] [[Secure Cloud Software Requirements]]
-- [ ] [[Secure Cloud Software Testing]]
+- [x] [[Secure Cloud Software Testing]]
   
 # Unit VI Advanced Techniques in Cloud Computing
 - [ ] [[Future Tends in cloud Computing]]

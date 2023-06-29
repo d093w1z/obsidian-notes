@@ -2,20 +2,20 @@
 
 Status: #idea
 
-Tags: 
+Tags: #cloud 
 
 # Secure Cloud Software Testing
 
-### Forms of Cloud Testing
+## Forms of Cloud Testing
 
 There are four forms of Cloud Testing performed:
 
-1. ****Testing of the whole cloud**:** In this, the cloud is taken as a whole entity, and based on its features, testing is carried out.
+1. **Testing of the whole cloud**: In this, the cloud is taken as a whole entity, and based on its features, testing is carried out.
 2. **Testing within a cloud**: This is the testing that is carried out internally inside the cloud by testing each of its internal features.
 3. **Testing across the clouds:** In this, the testing is carried out based on the specifications on the different types of clouds-like public, private and hybrid clouds.
 4. **SaaS testing in the cloud**: In this, functional and non-functional testing takes place based on requirements.
 
-Secure cloud software testing is an important aspect of ensuring the security and reliability of cloud-based applications. **It involves evaluating the software for vulnerabilities, weaknesses, and compliance with security requirements. Here are some key considerations and best practices for conducting secure cloud software testing**:
+Secure cloud software testing is an important aspect of ensuring the security and reliability of cloud-based applications. It involves evaluating the software for vulnerabilities, weaknesses, and compliance with security requirements. Here are some key considerations and best practices for conducting secure cloud software testing:
 
 1. **Threat Modeling**: Begin by performing a thorough threat modeling exercise to identify potential security threats and risks specific to the cloud environment. This helps in prioritizing testing efforts and focusing on critical areas of the software.
     
