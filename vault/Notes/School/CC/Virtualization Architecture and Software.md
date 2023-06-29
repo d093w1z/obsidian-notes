@@ -12,6 +12,7 @@ The **main usage of Virtualization Technology** is to provide the applications
 To overcome this problem we use basically virtualization technology, By using virtualization, all severs and the software application which are required by other cloud providers are maintained by the third party people, and the cloud providers has to pay the money on monthly or annual basis.
 ![[Virtualization Architecture in Cloud]]
 
+
 Virtualization is generally achieved through the hypervisor. A hypervisor enables the separation of operating systems with the underlying hardware. It enables the host machine to run many virtual machines simultaneously and share the same physical computer resources. There are two methods through which virtualization architecture is achieved described below:
 
 - **Type one: The first hypervisor type is termed** a bare-metal hypervisor. They directly run over the top of the hardware of the host system. They deliver effective resource management and ensure the high availability of resources. It delivers direct access to the hardware system, ensuring better scalability, performance, and stability.
