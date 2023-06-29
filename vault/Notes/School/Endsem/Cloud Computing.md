@@ -18,7 +18,6 @@ tag: syllabus
 - [ ] [[Virtual infrastructures]]
 - [ ] [[CPU Virtualization]]
 - [ ] [[Network and Storage Virtualization]]
-  
 # Unit IV Cloud Platforms and Cloud Applications
 - [ ] [[Amazon Web Services (AWS) - Amazon Web Services and Components]]
 - [ ] [[Amazon Simple DB]]
